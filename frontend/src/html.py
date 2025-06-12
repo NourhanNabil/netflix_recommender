@@ -11,6 +11,6 @@ FOOTER_HTML = """
 <div class="footer">
     <p><strong>DS699 - Data Science Master Project</strong> | T2 - 2025</p>
     <p>Content-Based Movie Recommendation System using TF-IDF, Sentence Transformers & OpenAI</p>
-    <p>Built with ❤️ by @elcaiseri, @zyad and @nourhan | © 2025</p>
+    <p>Built with ❤️ by @elcaiseri, @ZyadSamy96 and @nourhan | © 2025</p>
 </div>
 """
