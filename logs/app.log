@@ -1,0 +1,320 @@
+2025-06-12 04:41:44,831 - INFO - App started - Page configured
+2025-06-12 04:41:44,874 - INFO - Loading Netflix dataset
+2025-06-12 04:41:44,920 - INFO - Dataset loaded: 8807 movies
+2025-06-12 04:41:44,955 - INFO - Session initialized with random movies
+2025-06-12 04:41:49,348 - INFO - App started - Page configured
+2025-06-12 04:41:49,387 - INFO - Algorithm changed: TF-IDF -> Sentence Transformers
+2025-06-12 04:41:53,349 - INFO - App started - Page configured
+2025-06-12 04:41:59,776 - INFO - App started - Page configured
+2025-06-12 04:41:59,821 - INFO - Algorithm changed: Sentence Transformers -> OpenAI GPT
+2025-06-12 04:42:10,202 - INFO - App started - Page configured
+2025-06-12 04:42:10,244 - INFO - User reset session
+2025-06-12 04:42:10,316 - INFO - App started - Page configured
+2025-06-12 04:42:14,137 - INFO - App started - Page configured
+2025-06-12 04:42:14,159 - INFO - User requested recommendations for: 2 Hearts (ID: 774)
+2025-06-12 04:42:14,160 - INFO - Generating recommendations: algorithm=TF-IDF, movie_id=774, limit=24
+2025-06-12 04:42:14,161 - INFO - Generated 24 recommendations
+2025-06-12 04:42:14,192 - INFO - App started - Page configured
+2025-06-12 04:42:28,477 - INFO - App started - Page configured
+2025-06-12 04:42:28,498 - INFO - User requested recommendations for: Heartland (ID: 1354)
+2025-06-12 04:42:28,499 - INFO - Generating recommendations: algorithm=TF-IDF, movie_id=1354, limit=24
+2025-06-12 04:42:28,499 - INFO - Generated 24 recommendations
+2025-06-12 04:42:28,529 - INFO - App started - Page configured
+2025-06-12 04:42:34,967 - INFO - App started - Page configured
+2025-06-12 04:42:34,990 - INFO - User requested recommendations for: Seabiscuit (ID: 349)
+2025-06-12 04:42:34,991 - INFO - Generating recommendations: algorithm=TF-IDF, movie_id=349, limit=24
+2025-06-12 04:42:34,992 - INFO - Generated 24 recommendations
+2025-06-12 04:42:35,022 - INFO - App started - Page configured
+2025-06-12 04:42:41,030 - INFO - App started - Page configured
+2025-06-12 04:42:41,068 - INFO - Algorithm changed: TF-IDF -> OpenAI GPT
+2025-06-12 04:42:41,895 - INFO - App started - Page configured
+2025-06-12 04:42:41,916 - INFO - User requested recommendations for: The Women and the Murderer (ID: 91)
+2025-06-12 04:42:41,916 - INFO - Generating recommendations: algorithm=OpenAI GPT, movie_id=91, limit=24
+2025-06-12 04:42:41,917 - INFO - Generated 24 recommendations
+2025-06-12 04:42:41,948 - INFO - App started - Page configured
+2025-06-12 04:42:44,960 - INFO - App started - Page configured
+2025-06-12 04:42:44,982 - INFO - User requested recommendations for: Charlie's Angels (ID: 566)
+2025-06-12 04:42:44,982 - INFO - Generating recommendations: algorithm=OpenAI GPT, movie_id=566, limit=24
+2025-06-12 04:42:44,983 - INFO - Generated 24 recommendations
+2025-06-12 04:42:45,010 - INFO - App started - Page configured
+2025-06-12 04:42:46,038 - INFO - App started - Page configured
+2025-06-12 04:42:46,060 - INFO - User requested recommendations for: The One (ID: 1217)
+2025-06-12 04:42:46,060 - INFO - Generating recommendations: algorithm=OpenAI GPT, movie_id=1217, limit=24
+2025-06-12 04:42:46,061 - INFO - Generated 24 recommendations
+2025-06-12 04:42:46,091 - INFO - App started - Page configured
+2025-06-12 04:42:49,883 - INFO - App started - Page configured
+2025-06-12 04:42:49,920 - INFO - Algorithm changed: OpenAI GPT -> Sentence Transformers
+2025-06-12 04:42:52,033 - INFO - App started - Page configured
+2025-06-12 04:42:52,053 - INFO - User requested recommendations for: A Man For The Week End (ID: 704)
+2025-06-12 04:42:52,054 - INFO - Generating recommendations: algorithm=Sentence Transformers, movie_id=704, limit=24
+2025-06-12 04:42:52,055 - INFO - Generated 24 recommendations
+2025-06-12 04:42:52,084 - INFO - App started - Page configured
+2025-06-12 04:43:05,789 - INFO - App started - Page configured
+2025-06-12 04:43:05,826 - INFO - User requested recommendations for: Taxi No. 9211 (ID: 864)
+2025-06-12 04:43:05,826 - INFO - Generating recommendations: algorithm=Sentence Transformers, movie_id=864, limit=24
+2025-06-12 04:43:05,827 - INFO - Generated 24 recommendations
+2025-06-12 04:43:05,871 - INFO - App started - Page configured
+2025-06-12 04:44:46,561 - INFO - App started - Page configured
+2025-06-12 04:44:46,588 - INFO - Session initialized with random movies
+2025-06-12 04:44:50,515 - INFO - App started - Page configured
+2025-06-12 04:44:50,536 - INFO - User requested recommendations for: Tattoo Redo (ID: 379)
+2025-06-12 04:44:50,537 - INFO - Generating recommendations: algorithm=TF-IDF, movie_id=379, limit=24
+2025-06-12 04:44:50,538 - INFO - Generated 24 recommendations
+2025-06-12 04:44:50,566 - INFO - App started - Page configured
+2025-06-12 04:44:53,841 - INFO - App started - Page configured
+2025-06-12 04:44:53,894 - INFO - User reset session
+2025-06-12 04:44:53,915 - INFO - App started - Page configured
+2025-06-12 04:44:57,862 - INFO - App started - Page configured
+2025-06-12 04:44:57,907 - INFO - User reset session
+2025-06-12 04:44:57,929 - INFO - App started - Page configured
+2025-06-12 04:44:59,903 - INFO - App started - Page configured
+2025-06-12 04:44:59,924 - INFO - User requested recommendations for: Tottaa Pataaka Item Maal (ID: 892)
+2025-06-12 04:44:59,925 - INFO - Generating recommendations: algorithm=TF-IDF, movie_id=892, limit=24
+2025-06-12 04:44:59,926 - INFO - Generated 24 recommendations
+2025-06-12 04:44:59,958 - INFO - App started - Page configured
+2025-06-12 04:45:02,617 - INFO - App started - Page configured
+2025-06-12 04:45:02,634 - INFO - User requested recommendations for: Untold: Breaking Point (ID: 101)
+2025-06-12 04:45:02,635 - INFO - Generating recommendations: algorithm=TF-IDF, movie_id=101, limit=24
+2025-06-12 04:45:02,637 - INFO - Generated 24 recommendations
+2025-06-12 04:45:02,670 - INFO - App started - Page configured
+2025-06-12 04:45:03,211 - INFO - App started - Page configured
+2025-06-12 04:45:03,233 - INFO - User requested recommendations for: Elize Matsunaga: Once Upon a Crime (ID: 490)
+2025-06-12 04:45:03,234 - INFO - Generating recommendations: algorithm=TF-IDF, movie_id=490, limit=24
+2025-06-12 04:45:03,235 - INFO - Generated 24 recommendations
+2025-06-12 04:45:03,265 - INFO - App started - Page configured
+2025-06-12 04:45:03,679 - INFO - App started - Page configured
+2025-06-12 04:45:03,699 - INFO - User requested recommendations for: Elizabeth and Margaret: Love and Loyalty (ID: 1161)
+2025-06-12 04:45:03,700 - INFO - Generating recommendations: algorithm=TF-IDF, movie_id=1161, limit=24
+2025-06-12 04:45:03,701 - INFO - Generated 24 recommendations
+2025-06-12 04:45:03,727 - INFO - App started - Page configured
+2025-06-12 04:45:04,157 - INFO - App started - Page configured
+2025-06-12 04:45:04,180 - INFO - User requested recommendations for: Hunter X Hunter (2011) (ID: 338)
+2025-06-12 04:45:04,181 - INFO - Generating recommendations: algorithm=TF-IDF, movie_id=338, limit=24
+2025-06-12 04:45:04,182 - INFO - Generated 24 recommendations
+2025-06-12 04:45:04,218 - INFO - App started - Page configured
+2025-06-12 04:45:04,642 - INFO - App started - Page configured
+2025-06-12 04:45:04,662 - INFO - User requested recommendations for: The 8th Night (ID: 556)
+2025-06-12 04:45:04,663 - INFO - Generating recommendations: algorithm=TF-IDF, movie_id=556, limit=24
+2025-06-12 04:45:04,663 - INFO - Generated 24 recommendations
+2025-06-12 04:45:04,695 - INFO - App started - Page configured
+2025-06-12 04:45:05,069 - INFO - App started - Page configured
+2025-06-12 04:45:05,088 - INFO - User requested recommendations for: The Lincoln Lawyer (ID: 355)
+2025-06-12 04:45:05,089 - INFO - Generating recommendations: algorithm=TF-IDF, movie_id=355, limit=24
+2025-06-12 04:45:05,090 - INFO - Generated 24 recommendations
+2025-06-12 04:45:05,116 - INFO - App started - Page configured
+2025-06-12 04:45:05,621 - INFO - App started - Page configured
+2025-06-12 04:45:05,640 - INFO - User requested recommendations for: Shor In the City (ID: 216)
+2025-06-12 04:45:05,640 - INFO - Generating recommendations: algorithm=TF-IDF, movie_id=216, limit=24
+2025-06-12 04:45:05,641 - INFO - Generated 24 recommendations
+2025-06-12 04:45:05,670 - INFO - App started - Page configured
+2025-06-12 04:45:06,146 - INFO - App started - Page configured
+2025-06-12 04:45:06,167 - INFO - User requested recommendations for: Connected (ID: 1250)
+2025-06-12 04:45:06,167 - INFO - Generating recommendations: algorithm=TF-IDF, movie_id=1250, limit=24
+2025-06-12 04:45:06,168 - INFO - Generated 24 recommendations
+2025-06-12 04:45:06,198 - INFO - App started - Page configured
+2025-06-12 04:45:06,648 - INFO - App started - Page configured
+2025-06-12 04:45:06,668 - INFO - User requested recommendations for: Kuroko's Basketball (ID: 154)
+2025-06-12 04:45:06,669 - INFO - Generating recommendations: algorithm=TF-IDF, movie_id=154, limit=24
+2025-06-12 04:45:06,670 - INFO - Generated 24 recommendations
+2025-06-12 04:45:06,697 - INFO - App started - Page configured
+2025-06-12 04:45:51,644 - INFO - App started - Page configured
+2025-06-12 04:45:51,657 - INFO - Session initialized with random movies
+2025-06-12 04:46:07,965 - INFO - App started - Page configured
+2025-06-12 04:46:07,978 - INFO - Session initialized with random movies
+2025-06-12 04:46:42,231 - INFO - App started - Page configured
+2025-06-12 04:46:42,244 - INFO - Session initialized with random movies
+2025-06-12 04:47:05,210 - INFO - App started - Page configured
+2025-06-12 04:47:05,223 - INFO - Session initialized with random movies
+2025-06-12 04:48:56,212 - INFO - App started - Page configured
+2025-06-12 04:48:56,224 - INFO - Session initialized with random movies
+2025-06-12 04:49:03,797 - INFO - App started - Page configured
+2025-06-12 04:49:03,815 - INFO - Session initialized with random movies
+2025-06-12 04:50:13,742 - INFO - App started - Page configured
+2025-06-12 04:50:13,756 - INFO - Session initialized with random movies
+2025-06-12 04:50:37,100 - INFO - App started - Page configured
+2025-06-12 04:50:37,128 - INFO - Session initialized with random movies
+2025-06-12 04:50:56,398 - INFO - App started - Page configured
+2025-06-12 04:50:56,431 - INFO - User requested recommendations for: Ije: The Journey (ID: 315)
+2025-06-12 04:50:56,432 - INFO - Generating recommendations: algorithm=TF-IDF, movie_id=315, limit=24
+2025-06-12 04:50:56,432 - INFO - Generated 24 recommendations
+2025-06-12 04:50:56,467 - INFO - App started - Page configured
+2025-06-12 04:51:10,620 - INFO - App started - Page configured
+2025-06-12 04:51:10,642 - INFO - User requested recommendations for: Motu Patlu VS Robo Kids (ID: 1008)
+2025-06-12 04:51:10,642 - INFO - Generating recommendations: algorithm=TF-IDF, movie_id=1008, limit=24
+2025-06-12 04:51:10,644 - INFO - Generated 24 recommendations
+2025-06-12 04:51:10,674 - INFO - App started - Page configured
+2025-06-12 04:52:04,546 - INFO - App started - Page configured
+2025-06-12 04:52:04,558 - INFO - Session initialized with random movies
+2025-06-12 04:52:32,528 - INFO - App started - Page configured
+2025-06-12 04:52:32,541 - INFO - Session initialized with random movies
+2025-06-12 04:52:34,661 - INFO - App started - Page configured
+2025-06-12 04:52:34,666 - INFO - Session initialized with random movies
+2025-06-12 04:52:46,893 - INFO - App started - Page configured
+2025-06-12 04:52:46,910 - INFO - Session initialized with random movies
+2025-06-12 04:53:05,261 - INFO - App started - Page configured
+2025-06-12 04:53:05,284 - INFO - Session initialized with random movies
+2025-06-12 04:53:15,558 - INFO - App started - Page configured
+2025-06-12 04:53:15,598 - INFO - User requested recommendations for: A Perfect Fit (ID: 452)
+2025-06-12 04:53:15,599 - INFO - Generating recommendations: algorithm=TF-IDF, movie_id=452, limit=24
+2025-06-12 04:53:15,600 - INFO - Generated 24 recommendations
+2025-06-12 04:53:15,637 - INFO - App started - Page configured
+2025-06-12 04:53:32,285 - INFO - App started - Page configured
+2025-06-12 04:53:32,303 - INFO - Session initialized with random movies
+2025-06-12 04:53:36,554 - INFO - App started - Page configured
+2025-06-12 04:53:36,578 - INFO - Session initialized with random movies
+2025-06-12 04:55:20,059 - INFO - App started - Page configured
+2025-06-12 04:55:20,083 - INFO - Session initialized with random movies
+2025-06-12 04:55:28,821 - INFO - App started - Page configured
+2025-06-12 04:55:28,835 - INFO - Session initialized with random movies
+2025-06-12 04:55:44,533 - INFO - App started - Page configured
+2025-06-12 04:55:44,563 - INFO - Session initialized with random movies
+2025-06-12 04:55:51,685 - INFO - App started - Page configured
+2025-06-12 04:55:51,704 - INFO - Session initialized with random movies
+2025-06-12 04:56:18,826 - INFO - App started - Page configured
+2025-06-12 04:56:18,840 - INFO - Session initialized with random movies
+2025-06-12 04:56:23,775 - INFO - App started - Page configured
+2025-06-12 04:56:23,791 - INFO - Session initialized with random movies
+2025-06-12 04:56:35,275 - INFO - App started - Page configured
+2025-06-12 04:56:35,287 - INFO - Session initialized with random movies
+2025-06-12 04:56:52,192 - INFO - App started - Page configured
+2025-06-12 04:56:52,221 - INFO - Session initialized with random movies
+2025-06-12 04:56:59,512 - INFO - App started - Page configured
+2025-06-12 04:56:59,540 - INFO - User requested recommendations for: Sophie: A Murder in West Cork (ID: 626)
+2025-06-12 04:56:59,541 - INFO - Generating recommendations: algorithm=TF-IDF, movie_id=626, limit=24
+2025-06-12 04:56:59,541 - INFO - Generated 24 recommendations
+2025-06-12 04:56:59,578 - INFO - App started - Page configured
+2025-06-12 04:57:04,263 - INFO - App started - Page configured
+2025-06-12 04:57:04,295 - INFO - Algorithm changed: TF-IDF -> Sentence Transformers
+2025-06-12 04:57:06,331 - INFO - App started - Page configured
+2025-06-12 04:57:06,347 - INFO - User requested recommendations for: Angamaly Diaries (ID: 105)
+2025-06-12 04:57:06,348 - INFO - Generating recommendations: algorithm=Sentence Transformers, movie_id=105, limit=24
+2025-06-12 04:57:06,348 - INFO - Generated 24 recommendations
+2025-06-12 04:57:06,373 - INFO - App started - Page configured
+2025-06-12 04:57:34,704 - INFO - App started - Page configured
+2025-06-12 04:57:34,718 - INFO - Session initialized with random movies
+2025-06-12 04:57:44,590 - INFO - App started - Page configured
+2025-06-12 04:57:44,603 - INFO - Session initialized with random movies
+2025-06-12 04:58:05,544 - INFO - App started - Page configured
+2025-06-12 04:58:05,566 - INFO - User requested recommendations for: Fear Street Part 1: 1994 (ID: 550)
+2025-06-12 04:58:05,567 - INFO - Generating recommendations: algorithm=TF-IDF, movie_id=550, limit=24
+2025-06-12 04:58:05,568 - INFO - Generated 24 recommendations
+2025-06-12 04:58:05,609 - INFO - App started - Page configured
+2025-06-12 05:06:18,074 - INFO - App started - Page configured
+2025-06-12 05:06:18,110 - INFO - Session initialized with random movies
+2025-06-12 05:08:27,268 - INFO - App started - Page configured
+2025-06-12 05:08:27,282 - INFO - Session initialized with random movies
+2025-06-12 05:09:02,690 - INFO - App started - Page configured
+2025-06-12 05:09:02,707 - INFO - Session initialized with random movies
+2025-06-12 05:09:17,289 - INFO - App started - Page configured
+2025-06-12 05:09:17,291 - INFO - Loading Netflix dataset
+2025-06-12 05:09:17,353 - INFO - Dataset loaded: 8807 movies
+2025-06-12 05:09:17,362 - INFO - Session initialized with random movies
+2025-06-12 05:10:22,855 - INFO - App started - Page configured
+2025-06-12 05:10:22,872 - INFO - Session initialized with random movies
+2025-06-12 05:10:28,487 - INFO - App started - Page configured
+2025-06-12 05:10:28,516 - INFO - Session initialized with random movies
+2025-06-12 05:10:30,718 - INFO - App started - Page configured
+2025-06-12 05:10:30,736 - INFO - User requested recommendations for: JT LeRoy (ID: 934)
+2025-06-12 05:10:30,737 - INFO - Generating recommendations: algorithm=TF-IDF, movie_id=934, limit=24
+2025-06-12 05:10:30,738 - INFO - Generated 24 recommendations
+2025-06-12 05:10:30,764 - INFO - App started - Page configured
+2025-06-12 05:10:41,965 - INFO - App started - Page configured
+2025-06-12 05:10:41,968 - INFO - Loading Netflix dataset
+2025-06-12 05:10:42,036 - INFO - Dataset loaded: 8807 movies
+2025-06-12 05:10:42,047 - INFO - Session initialized with random movies
+2025-06-12 05:10:43,859 - INFO - App started - Page configured
+2025-06-12 05:10:43,876 - INFO - User requested recommendations for: Penguin Town (ID: 710)
+2025-06-12 05:10:43,877 - INFO - Generating recommendations: algorithm=TF-IDF, movie_id=710, limit=24
+2025-06-12 05:10:43,877 - INFO - Generated 24 recommendations
+2025-06-12 05:10:43,904 - INFO - App started - Page configured
+2025-06-12 05:10:45,321 - INFO - App started - Page configured
+2025-06-12 05:10:45,344 - INFO - User requested recommendations for: A Way Back Home (ID: 629)
+2025-06-12 05:10:45,346 - INFO - Generating recommendations: algorithm=TF-IDF, movie_id=629, limit=24
+2025-06-12 05:10:45,346 - INFO - Generated 24 recommendations
+2025-06-12 05:10:45,401 - INFO - App started - Page configured
+2025-06-12 05:15:00,426 - INFO - App started - Page configured
+2025-06-12 05:15:00,439 - INFO - Session state initialized: current_ids = [8052, 676, 1508, 1762, 1277, 5675, 8280, 3363, 6322, 2499, 2409, 5424, 4318, 5680, 7593, 5507, 8704, 3183, 3185, 853, 5202, 4397, 6170, 7885]
+2025-06-12 05:15:00,440 - INFO - Session state initialized: algorithm_used = TF-IDF
+2025-06-12 05:15:00,440 - INFO - Session state initialized: last_recommended = None
+2025-06-12 05:15:42,897 - INFO - App started - Page configured
+2025-06-12 05:15:42,921 - INFO - Session state initialized: current_ids = [6595, 5887, 7623, 22, 7672, 4573, 7551, 5221, 2879, 2215, 5946, 775, 7954, 2172, 1549, 1986, 4562, 979, 3318, 3755, 1988, 1832, 184, 2385]
+2025-06-12 05:15:42,921 - INFO - Session state initialized: algorithm_used = TF-IDF
+2025-06-12 05:15:42,921 - INFO - Session state initialized: last_recommended = None
+2025-06-12 05:15:44,639 - INFO - App started - Page configured
+2025-06-12 05:15:44,653 - INFO - User requested recommendations for: Sparking Joy (ID: 184)
+2025-06-12 05:15:44,654 - INFO - Generating recommendations: algorithm=TF-IDF, movie_id=184, limit=24
+2025-06-12 05:16:22,015 - INFO - App started - Page configured
+2025-06-12 05:16:22,064 - INFO - User requested recommendations for: Sparking Joy (ID: 184)
+2025-06-12 05:16:22,065 - INFO - Generating recommendations: algorithm=TF-IDF, movie_id=184, limit=24
+2025-06-12 05:16:22,065 - INFO - Generated 24 recommendations
+2025-06-12 05:16:22,107 - INFO - App started - Page configured
+2025-06-12 05:16:39,171 - INFO - App started - Page configured
+2025-06-12 05:16:39,183 - INFO - Session state initialized: current_ids = [1264, 2359, 2798, 8199, 2206, 6512, 1377, 1473, 4421, 7711, 6382, 7665, 3606, 7503, 546, 4583, 2071, 4787, 2440, 6823, 2170, 6864, 3694, 2244]
+2025-06-12 05:16:39,184 - INFO - Session state initialized: algorithm_used = TF-IDF
+2025-06-12 05:16:39,184 - INFO - Session state initialized: last_recommended = None
+2025-06-12 05:17:07,063 - INFO - App started - Page configured
+2025-06-12 05:17:07,114 - INFO - Loading Netflix dataset
+2025-06-12 05:17:07,166 - INFO - Dataset loaded: 8807 movies
+2025-06-12 05:17:07,175 - INFO - Session state initialized: current_ids = [1847, 7000, 4624, 7044, 2701, 7978, 1204, 2707, 5403, 1388, 3943, 8308, 5635, 3006, 2988, 3960, 2284, 5936, 5477, 1370, 1100, 5589, 5328, 1525]
+2025-06-12 05:17:07,175 - INFO - Session state initialized: algorithm_used = TF-IDF
+2025-06-12 05:17:07,175 - INFO - Session state initialized: last_recommended = None
+2025-06-12 05:17:09,685 - INFO - App started - Page configured
+2025-06-12 05:17:09,708 - INFO - User requested recommendations for: The Last Blockbuster (ID: 1204)
+2025-06-12 05:17:09,709 - INFO - Generating recommendations: algorithm=TF-IDF, movie_id=1204, limit=24
+2025-06-12 05:17:09,709 - INFO - Generated 24 recommendations
+2025-06-12 05:17:09,736 - INFO - App started - Page configured
+2025-06-12 05:17:14,076 - INFO - App started - Page configured
+2025-06-12 05:17:14,107 - INFO - Algorithm changed: TF-IDF -> Sentence Transformers
+2025-06-12 05:17:15,684 - INFO - App started - Page configured
+2025-06-12 05:17:15,702 - INFO - User requested recommendations for: InuYasha the Movie 3: Swords of an Honorable Ruler (ID: 52)
+2025-06-12 05:17:15,703 - INFO - Generating recommendations: algorithm=Sentence Transformers, movie_id=52, limit=24
+2025-06-12 05:17:15,704 - INFO - Generated 24 recommendations
+2025-06-12 05:17:15,734 - INFO - App started - Page configured
+2025-06-12 05:17:17,048 - INFO - App started - Page configured
+2025-06-12 05:17:17,065 - INFO - User requested recommendations for: The Secret Diary of an Exchange Student (ID: 261)
+2025-06-12 05:17:17,066 - INFO - Generating recommendations: algorithm=Sentence Transformers, movie_id=261, limit=24
+2025-06-12 05:17:17,067 - INFO - Generated 24 recommendations
+2025-06-12 05:17:17,130 - INFO - App started - Page configured
+2025-06-12 05:17:17,807 - INFO - App started - Page configured
+2025-06-12 05:17:17,824 - INFO - User requested recommendations for: Control Z (ID: 311)
+2025-06-12 05:17:17,825 - INFO - Generating recommendations: algorithm=Sentence Transformers, movie_id=311, limit=24
+2025-06-12 05:17:17,826 - INFO - Generated 24 recommendations
+2025-06-12 05:17:17,860 - INFO - App started - Page configured
+2025-06-12 05:17:19,793 - INFO - App started - Page configured
+2025-06-12 05:17:19,830 - INFO - Algorithm changed: Sentence Transformers -> OpenAI GPT
+2025-06-12 05:17:20,728 - INFO - App started - Page configured
+2025-06-12 05:17:20,744 - INFO - User requested recommendations for: Mad for Each Other (ID: 847)
+2025-06-12 05:17:20,746 - INFO - Generating recommendations: algorithm=OpenAI GPT, movie_id=847, limit=24
+2025-06-12 05:17:20,747 - INFO - Generated 24 recommendations
+2025-06-12 05:17:20,776 - INFO - App started - Page configured
+2025-06-12 05:18:29,486 - INFO - App started - Page configured
+2025-06-12 05:18:29,497 - INFO - Session state initialized: current_ids = [8467, 8522, 8757, 6061, 6507, 8145, 8257, 6669, 1089, 7471, 1819, 2649, 3993, 8546, 6456, 3187, 435, 7488, 2826, 8624, 1259, 4843, 3843, 5947]
+2025-06-12 05:18:29,497 - INFO - Session state initialized: algorithm_used = TF-IDF
+2025-06-12 05:18:29,497 - INFO - Session state initialized: last_recommended = None
+2025-06-12 05:18:31,151 - INFO - App started - Page configured
+2025-06-12 05:18:31,170 - INFO - User requested recommendations for: Captain Fantastic (ID: 1259)
+2025-06-12 05:18:31,171 - INFO - Generating recommendations: algorithm=TF-IDF, movie_id=1259, limit=24
+2025-06-12 05:18:31,171 - INFO - Generated 24 recommendations
+2025-06-12 05:18:31,194 - INFO - App started - Page configured
+2025-06-12 05:18:36,145 - INFO - App started - Page configured
+2025-06-12 05:18:36,162 - INFO - Session state initialized: current_ids = [2392, 1568, 5068, 4026, 3660, 727, 194, 3931, 7452, 1616, 1998, 4624, 6089, 1211, 5885, 6380, 5105, 4240, 7979, 4465, 7617, 7150, 538, 7794]
+2025-06-12 05:18:36,163 - INFO - Session state initialized: algorithm_used = TF-IDF
+2025-06-12 05:18:36,163 - INFO - Session state initialized: last_recommended = None
+2025-06-12 05:18:37,983 - INFO - App started - Page configured
+2025-06-12 05:18:38,002 - INFO - User requested recommendations for: The A List (ID: 538)
+2025-06-12 05:18:38,003 - INFO - Generating recommendations: algorithm=TF-IDF, movie_id=538, limit=4
+2025-06-12 05:18:38,003 - INFO - Generated 4 recommendations
+2025-06-12 05:18:38,029 - INFO - App started - Page configured
+2025-06-12 05:18:53,547 - INFO - App started - Page configured
+2025-06-12 05:18:53,575 - INFO - Session state initialized: current_ids = [2496, 3245, 4905, 6460, 5366, 3601, 6339, 3095, 8721, 2657, 8264, 8208, 8139, 3183, 4153, 4801, 8719, 2872, 3903, 980, 1200, 6652, 4258, 4119]
+2025-06-12 05:18:53,576 - INFO - Session state initialized: algorithm_used = TF-IDF
+2025-06-12 05:18:53,576 - INFO - Session state initialized: last_recommended = None
+2025-06-12 05:18:55,315 - INFO - App started - Page configured
+2025-06-12 05:18:55,327 - INFO - User requested recommendations for: Honeytrap (ID: 2496)
+2025-06-12 05:18:55,329 - INFO - Generating recommendations: algorithm=TF-IDF, movie_id=2496, limit=24
+2025-06-12 05:18:55,330 - INFO - Generated 24 recommendations
+2025-06-12 05:18:55,359 - INFO - App started - Page configured
+2025-06-12 05:19:41,073 - INFO - App started - Page configured
+2025-06-12 05:19:41,086 - INFO - Session state initialized: current_ids = [7896, 4250, 7858, 4041, 6535, 8179, 534, 1015, 2141, 3800, 4432, 6546, 2298, 6124, 4056, 853, 4672, 2755, 5874, 6132, 8770, 410, 2803, 119]
+2025-06-12 05:19:41,086 - INFO - Session state initialized: algorithm_used = TF-IDF
+2025-06-12 05:19:41,086 - INFO - Session state initialized: last_recommended = None
