@@ -9,6 +9,8 @@ services:
     ports:
       - "8080:8080"
     restart: always
+    networks:
+      - netflix-network
 
   frontend:
     build:
@@ -20,3 +22,8 @@ services:
     restart: always
     depends_on:
       - backend
+    networks:
+      - netflix-network
+
+networks:
+  netflix-network:
