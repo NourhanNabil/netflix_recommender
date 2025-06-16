@@ -22,3 +22,9 @@ UI_CONFIG = {
 
 # Available algorithms
 ALGORITHMS = ["TF-IDF", "Sentence Transformers", "OpenAI GPT"]
+
+ALGORITHMS_MAP = {
+    "TF-IDF": "tfidf",
+    "Sentence Transformers": "sbert",
+    "OpenAI GPT": "openai"
+}
