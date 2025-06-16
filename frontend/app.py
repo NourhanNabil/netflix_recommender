@@ -27,10 +27,11 @@ df = load_data(DATA_CONFIG['netflix_csv'])
 init_session(st, 'current_ids', random.sample(df['id'].tolist(), DATA_CONFIG['default_limit']))
 init_session(st, 'algorithm_used', "TF-IDF")
 init_session(st, 'last_recommended', None)
+init_session(st, 'scores', None)
 
 
 # Display Movies
-movies = get_movies_by_ids(df, st.session_state.current_ids)
+movies = get_movies_by_ids(df, st.session_state.current_ids, st.session_state.scores)
 
 num_cols = UI_CONFIG['num_columns']
 cols = st.columns(num_cols, gap="small")
@@ -57,6 +58,8 @@ for i, row in movies.iterrows():
                     <div class="meta-row"><span class="meta-label">Director:</span> {safe_get(row, 'director')}</div>
                     <div class="meta-row"><span class="meta-label">Country:</span> {safe_get(row, 'country')}</div>
                     <div class="meta-row"><span class="meta-label">Genre:</span> {genre_display}</div>
+                    <hr>
+                    <div class="meta-row"><span class="meta-label">Score:</span> {safe_get(row, 'score', 0)}</div>
                 </div>
             </div>
             """, unsafe_allow_html=True)
@@ -64,7 +67,7 @@ for i, row in movies.iterrows():
             if st.form_submit_button("🎯 Get Recommendations", use_container_width=True, type="primary"):
                 logger.info(f"User requested recommendations for: {row['title']} (ID: {row['id']})")
                 st.session_state.last_recommended = row['title']
-                st.session_state.current_ids = call_ai_service(df, row['id'], st.session_state.algorithm_used, limit=DATA_CONFIG['default_limit'])
+                st.session_state.current_ids, st.session_state.scores = call_ai_service(df, row['id'], st.session_state.algorithm_used, limit=DATA_CONFIG['default_limit'])
                 st.rerun()
 
 # Sidebar
