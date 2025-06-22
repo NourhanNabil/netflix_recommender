@@ -1,6 +1,5 @@
 from fastapi import FastAPI
 import uvicorn
-import os
 
 from Controllers import HealthController, RecommenderController
 

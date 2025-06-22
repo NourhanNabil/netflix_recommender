@@ -4,3 +4,4 @@ scikit-learn
 sentence-transformers
 fastapi
 uvicorn
+openai==0.28
