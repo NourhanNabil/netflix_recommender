@@ -1,6 +1,8 @@
 import streamlit as st
 import pandas as pd
 import random
+from typing import List, Optional, Tuple
+
 
 from src.logger import get_logger
 import requests
@@ -23,17 +25,17 @@ def truncate_text(text: str, max_length: int) -> str:
 def load_data(path):
     logger.info("Loading Netflix dataset")
     df = pd.read_csv(path)
-    df['id'] = df["show_id"]
+    df['id'] = df["show_id"].astype(str)
     logger.info(f"Dataset loaded: {len(df)} movies")
     return df
 
-def get_movies_by_ids(df, movie_ids: list[str], scores: list[float] = None) -> pd.DataFrame:
+def get_movies_by_ids(df, movie_ids: List[str], scores: Optional[List[float]] = None):
     df_filtered = df[df['id'].isin(movie_ids)].reset_index(drop=True)
     if scores is not None:
         df_filtered['score'] = scores
     return df_filtered
 
-def call_ai_service(df, selected_id: str, algorithm: str, limit: int = 24) -> tuple[list[str], list[float]]:
+def call_ai_service(df, selected_id: str, algorithm: str, limit: int = 24) -> Tuple[List[str], List[float]]:
     """Call AI service for recommendations"""
     logger.info(f"Calling AI service: algorithm={algorithm}, movie_id={selected_id}, limit={limit}")
 
@@ -60,7 +62,7 @@ def call_ai_service(df, selected_id: str, algorithm: str, limit: int = 24) -> tu
         recommendations = recommendations['recommendations']
 
         # select "show_id" from each recommendation
-        recommendations_ids = [rec['show_id'] for rec in recommendations if 'show_id' in rec]
+        recommendations_ids = [str(rec['show_id']) for rec in recommendations if 'show_id' in rec]
         scores = [round(rec['score'], 6) for rec in recommendations if 'score' in rec]
 
         logger.info(f"Received {len(recommendations_ids)} recommendations from AI service")

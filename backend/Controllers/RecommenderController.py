@@ -40,7 +40,7 @@ def get_recommendations(req: RecommendationRequest):
     if model_name not in faiss_indexes:
         return {"error": f"Model {model_name} not supported"}
     try:
-        input_text = metadata.loc[req.show_id]["all_text_info"]        
+        input_text = metadata.loc[int(req.show_id)]["all_text_info"]        
     except:
         return {"error": "Invalid show ID provided"}
 

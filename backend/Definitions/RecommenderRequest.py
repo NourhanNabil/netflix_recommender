@@ -1,6 +1,6 @@
 from pydantic import BaseModel
 
 class RecommendationRequest(BaseModel):
-    show_id : int
+    show_id : str
     model_name : str
     

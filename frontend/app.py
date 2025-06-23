@@ -42,10 +42,10 @@ if st.session_state.last_recommended:
 for i, row in movies.iterrows():
     with cols[i % num_cols]:
         with st.form(f"form_{row['id']}"):
-            genre = str(safe_get(row, 'listed_in'))
+            genre = str(safe_get(row, 'genres'))
             genre_display = f"{genre[:35]}..." if len(genre) > 35 else genre
 
-            description = safe_get(row, 'description', 'No description available')
+            description = safe_get(row, 'overview', 'No description available')
             description_display = description
 
             st.markdown(f"""
@@ -53,10 +53,8 @@ for i, row in movies.iterrows():
                 <div class="movie-title">{row['title']}</div>
                 <div class="movie-description">{description_display}</div>
                 <div class="movie-meta">
-                    <div class="meta-row"><span class="meta-label">Type:</span> {row['type']} | <span class="meta-label">Year:</span> {row['release_year']}</div>
-                    <div class="meta-row"><span class="meta-label">Rating:</span> {safe_get(row, 'rating')} | <span class="meta-label">Duration:</span> {safe_get(row, 'duration')}</div>
+                    <div class="meta-row"><span class="meta-label">Imdb Rating:</span> {safe_get(row, 'imdb_rating')} | <span class="meta-label">Duration:</span> {safe_get(row, 'runtime')}</div>
                     <div class="meta-row"><span class="meta-label">Director:</span> {safe_get(row, 'director')}</div>
-                    <div class="meta-row"><span class="meta-label">Country:</span> {safe_get(row, 'country')}</div>
                     <div class="meta-row"><span class="meta-label">Genre:</span> {genre_display}</div>
                     <hr>
                     <div class="meta-row"><span class="meta-label">Score:</span> {safe_get(row, 'score', 0)}</div>
