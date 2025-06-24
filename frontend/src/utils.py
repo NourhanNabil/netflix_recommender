@@ -35,6 +35,10 @@ def get_movies_by_ids(df, movie_ids: List[str], scores: Optional[List[float]] = 
         df_filtered['score'] = scores
     return df_filtered
 
+def call_ai_service_(df, selected_id: str, algorithm: str, limit: int = 24) -> Tuple[List[str], List[float]]:
+    return random.sample(
+        df[df['id'] != selected_id]['id'].tolist(), limit), [random.uniform(0, 1) for _ in range(limit)]
+
 def call_ai_service(df, selected_id: str, algorithm: str, limit: int = 24) -> Tuple[List[str], List[float]]:
     """Call AI service for recommendations"""
     logger.info(f"Calling AI service: algorithm={algorithm}, movie_id={selected_id}, limit={limit}")

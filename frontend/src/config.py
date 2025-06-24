@@ -10,7 +10,7 @@ APP_CONFIG = {
 # Data Configuration
 DATA_CONFIG = {
     "netflix_csv": "data/netflix_titles.csv",
-    "default_limit": 24
+    "default_limit": 9
 }
 
 # UI Configuration

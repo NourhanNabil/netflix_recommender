@@ -623,3 +623,671 @@
 2025-06-16 12:07:46,602 - INFO - Calling AI service: algorithm=Sentence Transformers, movie_id=s660, limit=24
 2025-06-16 12:07:56,172 - INFO - Received 10 recommendations from AI service
 2025-06-16 12:07:56,206 - INFO - App started - Page configured
+2025-06-25 00:17:10,235 - INFO - App started - Page configured
+2025-06-25 00:17:10,315 - INFO - Loading Netflix dataset
+2025-06-25 00:17:10,555 - INFO - Dataset loaded: 15670 movies
+2025-06-25 00:17:10,604 - INFO - Session state initialized: current_ids = ['140380', '92129', '192977', '30200', '42324', '430246', '653670', '26933', '628005', '1190469', '25189', '785759', '1251687', '1392402', '975407', '22881', '456210', '416148', '996518', '463520', '14639', '48580', '79048', '1206114']
+2025-06-25 00:17:10,604 - INFO - Session state initialized: algorithm_used = TF-IDF
+2025-06-25 00:17:10,604 - INFO - Session state initialized: last_recommended = None
+2025-06-25 00:17:10,604 - INFO - Session state initialized: scores = None
+2025-06-25 00:17:12,881 - INFO - App started - Page configured
+2025-06-25 00:17:12,956 - INFO - User requested recommendations for: The Order of Myths (ID: 14639)
+2025-06-25 00:17:13,033 - INFO - App started - Page configured
+2025-06-25 00:17:15,965 - INFO - App started - Page configured
+2025-06-25 00:17:16,073 - INFO - User requested recommendations for: Léon: The Professional (ID: 101)
+2025-06-25 00:17:16,154 - INFO - App started - Page configured
+2025-06-25 00:22:23,687 - INFO - App started - Page configured
+2025-06-25 00:22:33,395 - INFO - App started - Page configured
+2025-06-25 00:22:33,464 - INFO - Session state initialized: current_ids = ['781732', '592136', '419752', '673593', '331424', '768520', '398978', '1296743', '9360', '617502', '706345', '534339', '526213', '9803', '634528', '1007425', '779273', '653747', '2976', '456996', '739267', '632357', '136400', '928769']
+2025-06-25 00:22:33,464 - INFO - Session state initialized: algorithm_used = TF-IDF
+2025-06-25 00:22:33,464 - INFO - Session state initialized: last_recommended = None
+2025-06-25 00:22:33,465 - INFO - Session state initialized: scores = None
+2025-06-25 00:22:41,003 - INFO - App started - Page configured
+2025-06-25 00:22:41,076 - INFO - Session state initialized: current_ids = ['345719', '1194123', '184760', '20329', '135531', '290930', '1040284', '1061117', '420956', '615665', '261102', '778275', '982364', '338021', '133919', '1017089', '1237036', '9257', '79082', '40777', '1078092', '242582', '1174270', '63690']
+2025-06-25 00:22:41,077 - INFO - Session state initialized: algorithm_used = TF-IDF
+2025-06-25 00:22:41,077 - INFO - Session state initialized: last_recommended = None
+2025-06-25 00:22:41,077 - INFO - Session state initialized: scores = None
+2025-06-25 00:22:43,569 - INFO - App started - Page configured
+2025-06-25 00:22:43,644 - INFO - User requested recommendations for: S.W.A.T. (ID: 9257)
+2025-06-25 00:22:43,704 - INFO - App started - Page configured
+2025-06-25 00:23:42,988 - INFO - App started - Page configured
+2025-06-25 00:23:43,544 - INFO - User requested recommendations for: The Three Brothers (ID: 37653)
+2025-06-25 00:23:43,821 - INFO - App started - Page configured
+2025-06-25 00:23:51,181 - INFO - App started - Page configured
+2025-06-25 00:23:51,315 - INFO - User requested recommendations for: The Mask (ID: 854)
+2025-06-25 00:23:51,473 - INFO - App started - Page configured
+2025-06-25 00:23:54,502 - INFO - App started - Page configured
+2025-06-25 00:23:54,704 - INFO - User requested recommendations for: Everlasting Moments (ID: 17077)
+2025-06-25 00:23:54,882 - INFO - App started - Page configured
+2025-06-25 00:23:57,597 - INFO - App started - Page configured
+2025-06-25 00:23:57,685 - INFO - Session state initialized: current_ids = ['642720', '518972', '293167', '1082381', '208210', '755074', '254320', '165463', '315162', '199808', '922849', '1222248', '337674', '30855', '523077', '613713', '4477', '209340', '1220047', '285752', '644466', '578210', '1403775', '516698']
+2025-06-25 00:23:57,685 - INFO - Session state initialized: algorithm_used = TF-IDF
+2025-06-25 00:23:57,685 - INFO - Session state initialized: last_recommended = None
+2025-06-25 00:23:57,686 - INFO - Session state initialized: scores = None
+2025-06-25 00:24:47,896 - INFO - App started - Page configured
+2025-06-25 00:24:47,979 - INFO - Session state initialized: current_ids = ['625561', '238215', '658777', '1261924', '260346', '852970', '37710', '5995', '396995', '20781', '539613', '1058660', '410220', '620897', '411009', '1010805', '66015', '1129123', '116628', '179858', '38356', '379284', '1904', '94806']
+2025-06-25 00:24:47,979 - INFO - Session state initialized: algorithm_used = TF-IDF
+2025-06-25 00:24:47,980 - INFO - Session state initialized: last_recommended = None
+2025-06-25 00:24:47,980 - INFO - Session state initialized: scores = None
+2025-06-25 00:25:05,971 - INFO - App started - Page configured
+2025-06-25 00:25:06,262 - INFO - User requested recommendations for: Miffo (ID: 5995)
+2025-06-25 00:25:06,392 - INFO - App started - Page configured
+2025-06-25 00:25:19,090 - INFO - App started - Page configured
+2025-06-25 00:25:19,250 - INFO - User requested recommendations for: Dragon Ball Z: Dead Zone (ID: 28609)
+2025-06-25 00:25:19,334 - INFO - App started - Page configured
+2025-06-25 00:25:37,838 - INFO - App started - Page configured
+2025-06-25 00:25:38,146 - INFO - User requested recommendations for: The Untouchables (ID: 117)
+2025-06-25 00:25:38,365 - INFO - App started - Page configured
+2025-06-25 00:26:37,846 - INFO - App started - Page configured
+2025-06-25 00:26:38,132 - INFO - User requested recommendations for: Forces of Nature (ID: 1641)
+2025-06-25 00:26:38,332 - INFO - App started - Page configured
+2025-06-25 00:27:37,228 - INFO - App started - Page configured
+2025-06-25 00:27:37,436 - INFO - User requested recommendations for: Did You Hear About the Morgans? (ID: 24438)
+2025-06-25 00:27:37,544 - INFO - App started - Page configured
+2025-06-25 00:28:31,757 - INFO - App started - Page configured
+2025-06-25 00:28:31,849 - INFO - User requested recommendations for: Bad Boys for Life (ID: 38700)
+2025-06-25 00:28:31,924 - INFO - App started - Page configured
+2025-06-25 00:28:47,827 - INFO - App started - Page configured
+2025-06-25 00:28:53,307 - INFO - App started - Page configured
+2025-06-25 00:28:53,398 - INFO - Session state initialized: current_ids = ['1156194', '783740', '988667', '259718', '843794', '1106529', '411088', '1443244', '638306', '339692', '1145807', '300671', '913760', '855263', '13483', '18921', '797109', '512314', '177699', '94781', '293055', '260846', '751163', '675353']
+2025-06-25 00:28:53,398 - INFO - Session state initialized: algorithm_used = TF-IDF
+2025-06-25 00:28:53,398 - INFO - Session state initialized: last_recommended = None
+2025-06-25 00:28:53,398 - INFO - Session state initialized: scores = None
+2025-06-25 00:29:10,971 - INFO - App started - Page configured
+2025-06-25 00:29:26,795 - INFO - App started - Page configured
+2025-06-25 00:30:23,002 - INFO - App started - Page configured
+2025-06-25 00:30:31,534 - INFO - App started - Page configured
+2025-06-25 00:30:43,359 - INFO - App started - Page configured
+2025-06-25 00:30:47,607 - INFO - App started - Page configured
+2025-06-25 00:30:47,651 - INFO - Session state initialized: current_ids = ['573468', '572468', '354861', '1238400', '655511', '372518', '659674', '761898', '486131', '105410', '623391', '1180702', '1115395', '750794', '478501', '982124', '396972', '417503', '18320', '573915', '78460', '681019', '257451', '873633']
+2025-06-25 00:30:47,652 - INFO - Session state initialized: algorithm_used = TF-IDF
+2025-06-25 00:30:47,652 - INFO - Session state initialized: last_recommended = None
+2025-06-25 00:30:47,652 - INFO - Session state initialized: scores = None
+2025-06-25 00:30:58,382 - INFO - App started - Page configured
+2025-06-25 00:30:58,437 - INFO - Session state initialized: current_ids = ['999114', '773910', '217895', '433251', '252981', '461634', '410220', '934649', '13727', '63578', '804413', '1203484', '959439', '541483', '81119', '276403', '436931', '259453', '600354', '439031', '737802', '272420', '718949', '13']
+2025-06-25 00:30:58,437 - INFO - Session state initialized: algorithm_used = TF-IDF
+2025-06-25 00:30:58,437 - INFO - Session state initialized: last_recommended = None
+2025-06-25 00:30:58,437 - INFO - Session state initialized: scores = None
+2025-06-25 00:31:19,441 - INFO - App started - Page configured
+2025-06-25 00:31:28,537 - INFO - App started - Page configured
+2025-06-25 00:31:28,725 - INFO - Session state initialized: current_ids = ['419835', '1317572', '160242', '235271', '583558', '1244009', '300415', '56288', '55680', '43209', '77459', '294463', '63065', '290098', '198277', '430266', '27744', '11198', '1262684', '139761', '1025029', '1055733', '205220', '587996']
+2025-06-25 00:31:28,727 - INFO - Session state initialized: algorithm_used = TF-IDF
+2025-06-25 00:31:28,728 - INFO - Session state initialized: last_recommended = None
+2025-06-25 00:31:28,728 - INFO - Session state initialized: scores = None
+2025-06-25 00:31:40,810 - INFO - App started - Page configured
+2025-06-25 00:31:40,968 - INFO - Session state initialized: current_ids = ['628315', '362716', '399173', '1040533', '166666', '152291', '899940', '413884', '44725', '76068', '613096', '13249', '478625', '122744', '72243', '201445', '1019810', '523590', '696000', '1360212', '340402', '1216512', '336845', '3049']
+2025-06-25 00:31:40,968 - INFO - Session state initialized: algorithm_used = TF-IDF
+2025-06-25 00:31:40,968 - INFO - Session state initialized: last_recommended = None
+2025-06-25 00:31:40,968 - INFO - Session state initialized: scores = None
+2025-06-25 00:31:52,310 - INFO - App started - Page configured
+2025-06-25 00:32:02,503 - INFO - App started - Page configured
+2025-06-25 00:32:02,687 - INFO - Session state initialized: current_ids = ['51731', '454983', '852355', '998022', '1252377', '61462', '40186', '106780', '417548', '44945', '1208251', '697347', '229280', '603110', '739986', '403128', '362637', '614385', '644350', '545071', '731740', '14435', '747', '310307']
+2025-06-25 00:32:02,687 - INFO - Session state initialized: algorithm_used = TF-IDF
+2025-06-25 00:32:02,687 - INFO - Session state initialized: last_recommended = None
+2025-06-25 00:32:02,688 - INFO - Session state initialized: scores = None
+2025-06-25 00:32:08,598 - INFO - App started - Page configured
+2025-06-25 00:32:08,717 - INFO - User requested recommendations for: Shaun of the Dead (ID: 747)
+2025-06-25 00:32:08,937 - INFO - App started - Page configured
+2025-06-25 00:32:30,630 - INFO - App started - Page configured
+2025-06-25 00:32:53,191 - INFO - App started - Page configured
+2025-06-25 00:32:54,028 - INFO - Session state initialized: current_ids = ['253622', '216436', '1624', '424694', '624124', '785752', '78179', '278925', '9488']
+2025-06-25 00:32:54,066 - INFO - Session state initialized: algorithm_used = TF-IDF
+2025-06-25 00:32:54,066 - INFO - Session state initialized: last_recommended = None
+2025-06-25 00:32:54,066 - INFO - Session state initialized: scores = None
+2025-06-25 00:33:58,962 - INFO - App started - Page configured
+2025-06-25 00:33:59,233 - INFO - User requested recommendations for: Jada (ID: 624124)
+2025-06-25 00:33:59,373 - INFO - App started - Page configured
+2025-06-25 00:34:22,019 - INFO - App started - Page configured
+2025-06-25 00:34:26,755 - INFO - App started - Page configured
+2025-06-25 00:34:26,845 - INFO - Session state initialized: current_ids = ['11104', '866678', '766900', '257785', '36416', '85764', '948333', '14656', '423752']
+2025-06-25 00:34:26,845 - INFO - Session state initialized: algorithm_used = TF-IDF
+2025-06-25 00:34:26,845 - INFO - Session state initialized: last_recommended = None
+2025-06-25 00:34:26,845 - INFO - Session state initialized: scores = None
+2025-06-25 00:35:14,231 - INFO - App started - Page configured
+2025-06-25 00:35:14,414 - INFO - Session state initialized: current_ids = ['472983', '595743', '290862', '875419', '849177', '828883', '32689', '653522', '43209']
+2025-06-25 00:35:14,415 - INFO - Session state initialized: algorithm_used = TF-IDF
+2025-06-25 00:35:14,415 - INFO - Session state initialized: last_recommended = None
+2025-06-25 00:35:14,416 - INFO - Session state initialized: scores = None
+2025-06-25 00:36:52,526 - INFO - App started - Page configured
+2025-06-25 00:36:52,791 - INFO - User requested recommendations for: Invader Zim: Enter the Florpus (ID: 472983)
+2025-06-25 00:36:53,175 - INFO - App started - Page configured
+2025-06-25 00:37:46,096 - INFO - App started - Page configured
+2025-06-25 00:37:46,274 - INFO - User requested recommendations for: R-Point (ID: 16138)
+2025-06-25 00:37:46,365 - INFO - App started - Page configured
+2025-06-25 00:37:58,918 - INFO - App started - Page configured
+2025-06-25 00:37:59,158 - INFO - User requested recommendations for: Tom and Jerry: The Movie (ID: 22582)
+2025-06-25 00:37:59,234 - INFO - App started - Page configured
+2025-06-25 00:43:44,715 - INFO - App started - Page configured
+2025-06-25 00:43:45,097 - INFO - Session state initialized: because_you_watched = []
+2025-06-25 00:43:50,847 - INFO - App started - Page configured
+2025-06-25 00:43:50,941 - INFO - Session state initialized: current_ids = ['300783', '173428', '356385', '925341', '591274', '10760', '931678', '1109255', '622585']
+2025-06-25 00:43:50,942 - INFO - Session state initialized: algorithm_used = TF-IDF
+2025-06-25 00:43:50,942 - INFO - Session state initialized: last_recommended = None
+2025-06-25 00:43:50,942 - INFO - Session state initialized: scores = None
+2025-06-25 00:43:50,942 - INFO - Session state initialized: because_you_watched = []
+2025-06-25 00:43:52,910 - INFO - App started - Page configured
+2025-06-25 00:43:52,981 - INFO - User requested recommendations for: Sydney White (ID: 10760)
+2025-06-25 00:43:53,058 - INFO - App started - Page configured
+2025-06-25 00:44:41,596 - INFO - App started - Page configured
+2025-06-25 00:44:41,812 - INFO - Session state initialized: current_ids = ['803694', '869612', '636706', '477807', '730823', '527729', '981241', '1073091', '1141163']
+2025-06-25 00:44:41,813 - INFO - Session state initialized: algorithm_used = TF-IDF
+2025-06-25 00:44:41,813 - INFO - Session state initialized: last_recommended = None
+2025-06-25 00:44:41,813 - INFO - Session state initialized: scores = None
+2025-06-25 00:44:41,813 - INFO - Session state initialized: because_you_watched = []
+2025-06-25 00:44:44,156 - INFO - App started - Page configured
+2025-06-25 00:44:44,285 - INFO - User requested recommendations for: Haunted Tales For Wicked Kids: The Movie (ID: 477807)
+2025-06-25 00:44:44,370 - INFO - App started - Page configured
+2025-06-25 00:45:01,349 - INFO - App started - Page configured
+2025-06-25 00:45:01,447 - INFO - Session state initialized: current_ids = ['663', '976745', '565255', '418433', '1040148', '1157303', '440708', '1309923', '1062526']
+2025-06-25 00:45:01,447 - INFO - Session state initialized: algorithm_used = TF-IDF
+2025-06-25 00:45:01,447 - INFO - Session state initialized: last_recommended = None
+2025-06-25 00:45:01,448 - INFO - Session state initialized: scores = None
+2025-06-25 00:45:01,448 - INFO - Session state initialized: because_you_watched = []
+2025-06-25 00:45:03,339 - INFO - App started - Page configured
+2025-06-25 00:45:03,500 - INFO - User requested recommendations for: Saw IV (ID: 663)
+2025-06-25 00:45:03,612 - INFO - App started - Page configured
+2025-06-25 00:45:07,767 - INFO - App started - Page configured
+2025-06-25 00:45:07,900 - INFO - User requested recommendations for: Project Power (ID: 605116)
+2025-06-25 00:45:07,963 - INFO - App started - Page configured
+2025-06-25 00:45:18,995 - INFO - App started - Page configured
+2025-06-25 00:45:19,079 - INFO - Session state initialized: current_ids = ['390947', '943845', '2105', '340027', '713776', '586621', '169885', '33352', '1134682']
+2025-06-25 00:45:19,079 - INFO - Session state initialized: algorithm_used = TF-IDF
+2025-06-25 00:45:19,080 - INFO - Session state initialized: last_recommended = None
+2025-06-25 00:45:19,080 - INFO - Session state initialized: scores = None
+2025-06-25 00:45:19,080 - INFO - Session state initialized: because_you_watched = []
+2025-06-25 00:45:20,543 - INFO - App started - Page configured
+2025-06-25 00:45:20,587 - INFO - User requested recommendations for: American Pie (ID: 2105)
+2025-06-25 00:45:20,665 - INFO - App started - Page configured
+2025-06-25 00:45:21,702 - INFO - App started - Page configured
+2025-06-25 00:45:21,739 - INFO - User requested recommendations for: Paul Blart: Mall Cop 2 (ID: 256961)
+2025-06-25 00:45:21,845 - INFO - App started - Page configured
+2025-06-25 00:46:41,968 - INFO - App started - Page configured
+2025-06-25 00:46:44,925 - INFO - App started - Page configured
+2025-06-25 00:46:45,000 - INFO - Session state initialized: current_ids = ['9516', '1211994', '332349', '463821', '515409', '64383', '438148', '2304', '503345']
+2025-06-25 00:46:45,000 - INFO - Session state initialized: algorithm_used = TF-IDF
+2025-06-25 00:46:45,001 - INFO - Session state initialized: last_recommended = None
+2025-06-25 00:46:45,001 - INFO - Session state initialized: scores = None
+2025-06-25 00:46:45,001 - INFO - Session state initialized: because_you_watched = []
+2025-06-25 00:46:47,109 - INFO - App started - Page configured
+2025-06-25 00:46:47,296 - INFO - User requested recommendations for: The Wounded Man (ID: 2304)
+2025-06-25 00:46:47,468 - INFO - App started - Page configured
+2025-06-25 00:46:49,712 - INFO - App started - Page configured
+2025-06-25 00:46:49,801 - INFO - User requested recommendations for: Rocky Road to Berlin (ID: 851479)
+2025-06-25 00:46:49,907 - INFO - App started - Page configured
+2025-06-25 00:47:52,321 - INFO - App started - Page configured
+2025-06-25 00:47:52,439 - INFO - Session state initialized: current_ids = ['118150', '1221719', '35010', '116696', '582349', '12167', '11466', '19934', '584166']
+2025-06-25 00:47:52,440 - INFO - Session state initialized: algorithm_used = TF-IDF
+2025-06-25 00:47:52,440 - INFO - Session state initialized: last_recommended = None
+2025-06-25 00:47:52,440 - INFO - Session state initialized: scores = None
+2025-06-25 00:47:52,440 - INFO - Session state initialized: because_you_watched = []
+2025-06-25 00:47:57,757 - INFO - App started - Page configured
+2025-06-25 00:47:57,844 - INFO - User requested recommendations for: Slim Susie (ID: 11466)
+2025-06-25 00:47:57,907 - INFO - App started - Page configured
+2025-06-25 00:49:41,235 - INFO - App started - Page configured
+2025-06-25 00:49:41,343 - INFO - Session state initialized: current_ids = ['39968', '1389531', '244114', '547258', '415800', '11496', '577970', '80783', '815646']
+2025-06-25 00:49:41,343 - INFO - Session state initialized: algorithm_used = TF-IDF
+2025-06-25 00:49:41,344 - INFO - Session state initialized: last_recommended = None
+2025-06-25 00:49:41,344 - INFO - Session state initialized: scores = None
+2025-06-25 00:49:41,344 - INFO - Session state initialized: because_you_watched = []
+2025-06-25 00:49:43,511 - INFO - App started - Page configured
+2025-06-25 00:49:43,615 - INFO - User requested recommendations for: They Call Me Renegade (ID: 11496)
+2025-06-25 00:49:43,716 - INFO - App started - Page configured
+2025-06-25 00:49:50,463 - INFO - App started - Page configured
+2025-06-25 00:49:50,581 - INFO - User requested recommendations for: Blue (ID: 826704)
+2025-06-25 00:49:50,681 - INFO - App started - Page configured
+2025-06-25 00:49:52,462 - INFO - App started - Page configured
+2025-06-25 00:49:52,562 - INFO - User requested recommendations for: Ricky Gervais: SuperNature (ID: 973164)
+2025-06-25 00:49:52,656 - INFO - App started - Page configured
+2025-06-25 00:49:53,936 - INFO - App started - Page configured
+2025-06-25 00:49:54,013 - INFO - User requested recommendations for: Spelling the Dream (ID: 530973)
+2025-06-25 00:49:54,097 - INFO - App started - Page configured
+2025-06-25 00:49:54,812 - INFO - App started - Page configured
+2025-06-25 00:49:54,861 - INFO - User requested recommendations for: Kaiji: Final Game (ID: 663509)
+2025-06-25 00:49:54,928 - INFO - App started - Page configured
+2025-06-25 00:49:54,970 - INFO - App started - Page configured
+2025-06-25 00:49:55,086 - INFO - App started - Page configured
+2025-06-25 00:49:55,680 - INFO - App started - Page configured
+2025-06-25 00:49:55,739 - INFO - User requested recommendations for: My Mother (ID: 630191)
+2025-06-25 00:49:55,790 - INFO - App started - Page configured
+2025-06-25 00:49:56,361 - INFO - App started - Page configured
+2025-06-25 00:49:56,417 - INFO - User requested recommendations for: The Fox (ID: 475323)
+2025-06-25 00:49:56,473 - INFO - App started - Page configured
+2025-06-25 00:49:56,907 - INFO - App started - Page configured
+2025-06-25 00:49:56,958 - INFO - User requested recommendations for: Your Mother Should Know (ID: 513046)
+2025-06-25 00:49:57,011 - INFO - App started - Page configured
+2025-06-25 00:49:57,358 - INFO - App started - Page configured
+2025-06-25 00:49:57,429 - INFO - User requested recommendations for: And Yet, You Are So Sweet (ID: 1029484)
+2025-06-25 00:49:57,487 - INFO - App started - Page configured
+2025-06-25 00:49:57,886 - INFO - App started - Page configured
+2025-06-25 00:49:57,922 - INFO - User requested recommendations for: Ride (ID: 557996)
+2025-06-25 00:49:57,981 - INFO - App started - Page configured
+2025-06-25 00:49:58,443 - INFO - App started - Page configured
+2025-06-25 00:49:58,562 - INFO - User requested recommendations for: Cristela Alonzo: Lower Classy (ID: 437013)
+2025-06-25 00:49:58,613 - INFO - App started - Page configured
+2025-06-25 00:49:58,953 - INFO - App started - Page configured
+2025-06-25 00:49:58,990 - INFO - User requested recommendations for: Přání Ježíškovi (ID: 766082)
+2025-06-25 00:49:59,056 - INFO - App started - Page configured
+2025-06-25 00:49:59,558 - INFO - App started - Page configured
+2025-06-25 00:49:59,599 - INFO - User requested recommendations for: The Nest (ID: 545237)
+2025-06-25 00:49:59,640 - INFO - App started - Page configured
+2025-06-25 00:50:00,090 - INFO - App started - Page configured
+2025-06-25 00:50:00,149 - INFO - User requested recommendations for: Khoon Khoon (ID: 464441)
+2025-06-25 00:50:00,196 - INFO - App started - Page configured
+2025-06-25 00:50:00,799 - INFO - App started - Page configured
+2025-06-25 00:50:00,898 - INFO - User requested recommendations for: Yowis Ben 3 (ID: 683374)
+2025-06-25 00:50:00,976 - INFO - App started - Page configured
+2025-06-25 00:50:01,486 - INFO - App started - Page configured
+2025-06-25 00:50:01,531 - INFO - User requested recommendations for: The Earth of Mankind (ID: 609844)
+2025-06-25 00:50:01,585 - INFO - App started - Page configured
+2025-06-25 00:50:02,154 - INFO - App started - Page configured
+2025-06-25 00:50:02,210 - INFO - User requested recommendations for: Malcolm & Marie (ID: 722913)
+2025-06-25 00:50:02,270 - INFO - App started - Page configured
+2025-06-25 00:51:33,894 - INFO - App started - Page configured
+2025-06-25 00:51:34,049 - INFO - User requested recommendations for: Fantomas vs. Scotland Yard (ID: 1875)
+2025-06-25 00:51:34,228 - INFO - App started - Page configured
+2025-06-25 00:52:00,276 - INFO - App started - Page configured
+2025-06-25 00:52:00,362 - INFO - User requested recommendations for: A Knight's Tale (ID: 9476)
+2025-06-25 00:52:00,426 - INFO - App started - Page configured
+2025-06-25 00:52:02,456 - INFO - App started - Page configured
+2025-06-25 00:52:02,534 - INFO - User requested recommendations for: No Rest for the Wicked (ID: 76013)
+2025-06-25 00:52:02,590 - INFO - App started - Page configured
+2025-06-25 00:52:50,431 - INFO - App started - Page configured
+2025-06-25 00:52:50,543 - INFO - User requested recommendations for: Worth (ID: 649394)
+2025-06-25 00:52:50,629 - INFO - App started - Page configured
+2025-06-25 00:53:01,932 - INFO - App started - Page configured
+2025-06-25 00:53:14,419 - INFO - App started - Page configured
+2025-06-25 00:53:14,528 - INFO - User requested recommendations for: The Art of War (ID: 11398)
+2025-06-25 00:53:14,611 - INFO - App started - Page configured
+2025-06-25 00:53:17,968 - INFO - App started - Page configured
+2025-06-25 00:53:18,040 - INFO - User requested recommendations for: Kondal (ID: 1179283)
+2025-06-25 00:53:18,098 - INFO - App started - Page configured
+2025-06-25 00:53:22,670 - INFO - App started - Page configured
+2025-06-25 00:53:22,745 - INFO - User requested recommendations for: La Tahzan (ID: 217550)
+2025-06-25 00:53:22,795 - INFO - App started - Page configured
+2025-06-25 00:53:51,239 - INFO - App started - Page configured
+2025-06-25 00:53:51,338 - INFO - User requested recommendations for: Guillermo del Toro's Pinocchio: Handcarved Cinema (ID: 1059301)
+2025-06-25 00:53:51,409 - INFO - App started - Page configured
+2025-06-25 00:53:57,778 - INFO - App started - Page configured
+2025-06-25 00:53:57,877 - INFO - User requested recommendations for: Bruce Almighty (ID: 310)
+2025-06-25 00:53:57,933 - INFO - App started - Page configured
+2025-06-25 00:54:54,153 - INFO - App started - Page configured
+2025-06-25 00:54:54,230 - INFO - User requested recommendations for: The Truman Show (ID: 37165)
+2025-06-25 00:54:54,308 - INFO - App started - Page configured
+2025-06-25 00:55:31,901 - INFO - App started - Page configured
+2025-06-25 00:55:32,107 - INFO - User requested recommendations for: Personal Effects (ID: 121088)
+2025-06-25 00:55:32,266 - INFO - App started - Page configured
+2025-06-25 00:55:38,741 - INFO - App started - Page configured
+2025-06-25 00:55:38,847 - INFO - User requested recommendations for: The 'Maggie' (ID: 48954)
+2025-06-25 00:55:38,917 - INFO - App started - Page configured
+2025-06-25 00:55:42,097 - INFO - App started - Page configured
+2025-06-25 00:55:42,164 - INFO - User requested recommendations for: The Core (ID: 9341)
+2025-06-25 00:55:42,229 - INFO - App started - Page configured
+2025-06-25 00:56:02,000 - INFO - App started - Page configured
+2025-06-25 00:56:02,154 - INFO - User requested recommendations for: Kath & Kimderella (ID: 130953)
+2025-06-25 00:56:02,256 - INFO - App started - Page configured
+2025-06-25 00:58:15,743 - INFO - App started - Page configured
+2025-06-25 00:58:15,870 - INFO - User requested recommendations for: Luccas Neto em: Acampamento de Férias 4, O Desafio Final (ID: 1076601)
+2025-06-25 00:58:15,948 - INFO - App started - Page configured
+2025-06-25 00:59:13,210 - INFO - App started - Page configured
+2025-06-25 00:59:17,637 - INFO - App started - Page configured
+2025-06-25 00:59:17,714 - INFO - Session state initialized: current_ids = ['19152', '543684', '229587', '497223', '570480', '1156649', '490156', '643532', '76148']
+2025-06-25 00:59:17,714 - INFO - Session state initialized: algorithm_used = TF-IDF
+2025-06-25 00:59:17,715 - INFO - Session state initialized: last_recommended = None
+2025-06-25 00:59:17,715 - INFO - Session state initialized: scores = None
+2025-06-25 00:59:17,715 - INFO - Session state initialized: because_you_watched = []
+2025-06-25 00:59:19,423 - INFO - App started - Page configured
+2025-06-25 00:59:19,506 - INFO - User requested recommendations for: Zift (ID: 19152)
+2025-06-25 00:59:19,555 - INFO - App started - Page configured
+2025-06-25 00:59:51,500 - INFO - App started - Page configured
+2025-06-25 01:00:00,358 - INFO - App started - Page configured
+2025-06-25 01:00:00,465 - INFO - Session state initialized: current_ids = ['573', '368993', '43410', '73245', '774372', '513310', '714964', '134', '393569']
+2025-06-25 01:00:00,466 - INFO - Session state initialized: algorithm_used = TF-IDF
+2025-06-25 01:00:00,466 - INFO - Session state initialized: last_recommended = None
+2025-06-25 01:00:00,466 - INFO - Session state initialized: scores = None
+2025-06-25 01:00:00,466 - INFO - Session state initialized: because_you_watched = []
+2025-06-25 01:00:02,642 - INFO - App started - Page configured
+2025-06-25 01:00:02,701 - INFO - User requested recommendations for: O Brother, Where Art Thou? (ID: 134)
+2025-06-25 01:00:02,769 - INFO - App started - Page configured
+2025-06-25 01:00:12,043 - INFO - App started - Page configured
+2025-06-25 01:00:12,148 - INFO - User requested recommendations for: The Conjugal Bed (ID: 67378)
+2025-06-25 01:00:12,205 - INFO - App started - Page configured
+2025-06-25 01:00:43,316 - INFO - App started - Page configured
+2025-06-25 01:00:50,015 - INFO - App started - Page configured
+2025-06-25 01:01:37,373 - INFO - App started - Page configured
+2025-06-25 01:01:37,470 - INFO - Session state initialized: current_ids = ['546110', '698968', '19908', '634737', '976581', '562280', '1380447', '1047937', '863530']
+2025-06-25 01:01:37,471 - INFO - Session state initialized: algorithm_used = TF-IDF
+2025-06-25 01:01:37,471 - INFO - Session state initialized: last_recommended = None
+2025-06-25 01:01:37,472 - INFO - Session state initialized: scores = None
+2025-06-25 01:01:37,473 - INFO - Session state initialized: because_you_watched = []
+2025-06-25 01:01:38,845 - INFO - App started - Page configured
+2025-06-25 01:01:38,883 - INFO - User requested recommendations for: Zombieland (ID: 19908)
+2025-06-25 01:01:38,928 - INFO - App started - Page configured
+2025-06-25 01:01:41,770 - INFO - App started - Page configured
+2025-06-25 01:01:41,924 - INFO - User requested recommendations for: Roman Holiday (ID: 804)
+2025-06-25 01:01:42,029 - INFO - App started - Page configured
+2025-06-25 01:01:43,325 - INFO - App started - Page configured
+2025-06-25 01:01:43,391 - INFO - User requested recommendations for: Frisky (ID: 57991)
+2025-06-25 01:01:43,477 - INFO - App started - Page configured
+2025-06-25 01:02:07,757 - INFO - App started - Page configured
+2025-06-25 01:02:53,636 - INFO - App started - Page configured
+2025-06-25 01:02:53,704 - INFO - Session state initialized: current_ids = ['286658', '623430', '953138', '958080', '427810', '414001', '257196', '130286', '516604']
+2025-06-25 01:02:53,704 - INFO - Session state initialized: algorithm_used = TF-IDF
+2025-06-25 01:02:53,704 - INFO - Session state initialized: last_recommended = None
+2025-06-25 01:02:53,704 - INFO - Session state initialized: scores = None
+2025-06-25 01:02:53,705 - INFO - Session state initialized: because_you_watched = []
+2025-06-25 01:02:55,001 - INFO - App started - Page configured
+2025-06-25 01:02:55,037 - INFO - User requested recommendations for: Weapons of Death (ID: 130286)
+2025-06-25 01:02:55,119 - INFO - App started - Page configured
+2025-06-25 01:05:05,621 - INFO - App started - Page configured
+2025-06-25 01:05:21,647 - INFO - App started - Page configured
+2025-06-25 01:05:21,789 - INFO - User requested recommendations for: The Core (ID: 9341)
+2025-06-25 01:05:21,970 - INFO - App started - Page configured
+2025-06-25 01:05:22,730 - INFO - App started - Page configured
+2025-06-25 01:05:22,773 - INFO - User requested recommendations for: Crime Story (ID: 18857)
+2025-06-25 01:05:22,845 - INFO - App started - Page configured
+2025-06-25 01:05:23,919 - INFO - App started - Page configured
+2025-06-25 01:05:23,990 - INFO - User requested recommendations for: Killers (ID: 37821)
+2025-06-25 01:05:24,032 - INFO - App started - Page configured
+2025-06-25 01:05:25,010 - INFO - App started - Page configured
+2025-06-25 01:05:25,060 - INFO - User requested recommendations for: Primal Fear (ID: 1592)
+2025-06-25 01:05:25,094 - INFO - App started - Page configured
+2025-06-25 01:05:25,675 - INFO - App started - Page configured
+2025-06-25 01:05:25,732 - INFO - User requested recommendations for: Dead Silence (ID: 14001)
+2025-06-25 01:05:25,798 - INFO - App started - Page configured
+2025-06-25 01:05:26,175 - INFO - App started - Page configured
+2025-06-25 01:05:26,224 - INFO - User requested recommendations for: Girl, Interrupted (ID: 3558)
+2025-06-25 01:05:26,274 - INFO - App started - Page configured
+2025-06-25 01:05:26,614 - INFO - App started - Page configured
+2025-06-25 01:05:26,653 - INFO - User requested recommendations for: The Three Kings (ID: 18298)
+2025-06-25 01:05:26,686 - INFO - App started - Page configured
+2025-06-25 01:05:26,978 - INFO - App started - Page configured
+2025-06-25 01:05:27,014 - INFO - User requested recommendations for: Burn After Reading (ID: 4944)
+2025-06-25 01:05:27,056 - INFO - App started - Page configured
+2025-06-25 01:05:27,277 - INFO - App started - Page configured
+2025-06-25 01:05:27,312 - INFO - User requested recommendations for: Resident Evil: Degeneration (ID: 13648)
+2025-06-25 01:05:27,348 - INFO - App started - Page configured
+2025-06-25 01:05:27,566 - INFO - App started - Page configured
+2025-06-25 01:05:27,607 - INFO - User requested recommendations for: Psycho II (ID: 10576)
+2025-06-25 01:05:27,644 - INFO - App started - Page configured
+2025-06-25 01:28:46,109 - INFO - App started - Page configured
+2025-06-25 01:28:46,234 - INFO - Loading Netflix dataset
+2025-06-25 01:28:46,555 - INFO - Dataset loaded: 15670 movies
+2025-06-25 01:28:46,713 - INFO - Session state initialized: current_ids = ['406990', '987917', '197631', '728133', '252772', '1129298', '408205', '1033884', '923579']
+2025-06-25 01:28:46,714 - INFO - Session state initialized: algorithm_used = TF-IDF
+2025-06-25 01:28:46,714 - INFO - Session state initialized: last_recommended = None
+2025-06-25 01:28:46,715 - INFO - Session state initialized: scores = None
+2025-06-25 01:28:46,715 - INFO - Session state initialized: because_you_watched = []
+2025-06-25 01:29:08,101 - INFO - App started - Page configured
+2025-06-25 01:29:08,223 - INFO - User requested recommendations for: Strange Voices (ID: 197631)
+2025-06-25 01:29:08,225 - INFO - Calling AI service: algorithm=TF-IDF, movie_id=197631, limit=9
+2025-06-25 01:29:10,373 - INFO - Received 10 recommendations from AI service
+2025-06-25 01:29:10,448 - INFO - App started - Page configured
+2025-06-25 01:29:13,761 - INFO - App started - Page configured
+2025-06-25 01:29:13,836 - INFO - User requested recommendations for: Gandu (ID: 92472)
+2025-06-25 01:29:13,837 - INFO - Calling AI service: algorithm=TF-IDF, movie_id=92472, limit=9
+2025-06-25 01:29:14,273 - INFO - Received 10 recommendations from AI service
+2025-06-25 01:29:14,357 - INFO - App started - Page configured
+2025-06-25 01:29:16,932 - INFO - App started - Page configured
+2025-06-25 01:29:17,009 - INFO - User requested recommendations for: Jim Gaffigan: Mr. Universe (ID: 101449)
+2025-06-25 01:29:17,010 - INFO - Calling AI service: algorithm=TF-IDF, movie_id=101449, limit=9
+2025-06-25 01:29:17,388 - INFO - Received 10 recommendations from AI service
+2025-06-25 01:29:17,430 - INFO - App started - Page configured
+2025-06-25 01:29:20,484 - INFO - App started - Page configured
+2025-06-25 01:29:20,539 - INFO - User requested recommendations for: The Hangover Part III (ID: 109439)
+2025-06-25 01:29:20,540 - INFO - Calling AI service: algorithm=TF-IDF, movie_id=109439, limit=9
+2025-06-25 01:29:20,897 - INFO - Received 10 recommendations from AI service
+2025-06-25 01:29:20,956 - INFO - App started - Page configured
+2025-06-25 01:29:31,925 - INFO - App started - Page configured
+2025-06-25 01:29:31,988 - INFO - User requested recommendations for: Jim Gaffigan: Mr. Universe (ID: 101449)
+2025-06-25 01:29:31,988 - INFO - Calling AI service: algorithm=TF-IDF, movie_id=101449, limit=9
+2025-06-25 01:29:32,315 - INFO - Received 10 recommendations from AI service
+2025-06-25 01:29:32,372 - INFO - App started - Page configured
+2025-06-25 01:29:35,249 - INFO - App started - Page configured
+2025-06-25 01:29:35,296 - INFO - User requested recommendations for: Brotherly Love (ID: 295886)
+2025-06-25 01:29:35,297 - INFO - Calling AI service: algorithm=TF-IDF, movie_id=295886, limit=9
+2025-06-25 01:29:35,638 - INFO - Received 10 recommendations from AI service
+2025-06-25 01:29:35,718 - INFO - App started - Page configured
+2025-06-25 01:29:39,359 - INFO - App started - Page configured
+2025-06-25 01:29:39,393 - INFO - Session state initialized: current_ids = ['830611', '537190', '1055733', '851798', '10066', '18279', '7183', '50697', '172716']
+2025-06-25 01:29:39,393 - INFO - Session state initialized: algorithm_used = TF-IDF
+2025-06-25 01:29:39,393 - INFO - Session state initialized: last_recommended = None
+2025-06-25 01:29:39,393 - INFO - Session state initialized: scores = None
+2025-06-25 01:29:39,393 - INFO - Session state initialized: because_you_watched = []
+2025-06-25 01:29:45,673 - INFO - App started - Page configured
+2025-06-25 01:29:45,732 - INFO - User requested recommendations for: Perfect Stranger (ID: 7183)
+2025-06-25 01:29:45,732 - INFO - Calling AI service: algorithm=TF-IDF, movie_id=7183, limit=9
+2025-06-25 01:29:46,059 - INFO - Received 10 recommendations from AI service
+2025-06-25 01:29:46,147 - INFO - App started - Page configured
+2025-06-25 01:29:53,141 - INFO - App started - Page configured
+2025-06-25 01:29:53,204 - INFO - User requested recommendations for: Sordid Lives (ID: 19094)
+2025-06-25 01:29:53,204 - INFO - Calling AI service: algorithm=TF-IDF, movie_id=19094, limit=9
+2025-06-25 01:29:53,634 - INFO - Received 10 recommendations from AI service
+2025-06-25 01:29:53,682 - INFO - App started - Page configured
+2025-06-25 01:29:55,730 - INFO - App started - Page configured
+2025-06-25 01:29:55,785 - INFO - User requested recommendations for: Gandu (ID: 92472)
+2025-06-25 01:29:55,785 - INFO - Calling AI service: algorithm=TF-IDF, movie_id=92472, limit=9
+2025-06-25 01:29:56,108 - INFO - Received 10 recommendations from AI service
+2025-06-25 01:29:56,180 - INFO - App started - Page configured
+2025-06-25 01:29:58,271 - INFO - App started - Page configured
+2025-06-25 01:29:58,341 - INFO - User requested recommendations for: The Hangover Part III (ID: 109439)
+2025-06-25 01:29:58,341 - INFO - Calling AI service: algorithm=TF-IDF, movie_id=109439, limit=9
+2025-06-25 01:29:58,694 - INFO - Received 10 recommendations from AI service
+2025-06-25 01:29:58,769 - INFO - App started - Page configured
+2025-06-25 01:30:01,365 - INFO - App started - Page configured
+2025-06-25 01:30:01,424 - INFO - User requested recommendations for: The Letters (ID: 218275)
+2025-06-25 01:30:01,424 - INFO - Calling AI service: algorithm=TF-IDF, movie_id=218275, limit=9
+2025-06-25 01:30:01,717 - INFO - Received 10 recommendations from AI service
+2025-06-25 01:30:01,801 - INFO - App started - Page configured
+2025-06-25 01:30:03,914 - INFO - App started - Page configured
+2025-06-25 01:30:03,972 - INFO - User requested recommendations for: Garfunkel and Oates: Trying to be Special (ID: 394689)
+2025-06-25 01:30:03,973 - INFO - Calling AI service: algorithm=TF-IDF, movie_id=394689, limit=9
+2025-06-25 01:30:04,358 - INFO - Received 10 recommendations from AI service
+2025-06-25 01:30:04,420 - INFO - App started - Page configured
+2025-06-25 01:30:54,427 - INFO - App started - Page configured
+2025-06-25 01:30:54,501 - INFO - User requested recommendations for: Jim Gaffigan: Mr. Universe (ID: 101449)
+2025-06-25 01:30:54,502 - INFO - Calling AI service: algorithm=TF-IDF, movie_id=101449, limit=9
+2025-06-25 01:30:54,935 - INFO - Received 10 recommendations from AI service
+2025-06-25 01:30:55,035 - INFO - App started - Page configured
+2025-06-25 01:30:58,457 - INFO - App started - Page configured
+2025-06-25 01:30:58,503 - INFO - User requested recommendations for: The Hangover Part III (ID: 109439)
+2025-06-25 01:30:58,504 - INFO - Calling AI service: algorithm=TF-IDF, movie_id=109439, limit=9
+2025-06-25 01:30:58,851 - INFO - Received 10 recommendations from AI service
+2025-06-25 01:30:58,920 - INFO - App started - Page configured
+2025-06-25 01:31:00,655 - INFO - App started - Page configured
+2025-06-25 01:31:00,704 - INFO - Session state initialized: current_ids = ['511817', '1259526', '817203', '39105', '1259142', '585759', '912886', '303742', '33412']
+2025-06-25 01:31:00,705 - INFO - Session state initialized: algorithm_used = TF-IDF
+2025-06-25 01:31:00,705 - INFO - Session state initialized: last_recommended = None
+2025-06-25 01:31:00,705 - INFO - Session state initialized: scores = None
+2025-06-25 01:31:00,705 - INFO - Session state initialized: because_you_watched = []
+2025-06-25 01:31:06,834 - INFO - App started - Page configured
+2025-06-25 01:31:06,896 - INFO - User requested recommendations for: Lotto (ID: 33412)
+2025-06-25 01:31:06,897 - INFO - Calling AI service: algorithm=TF-IDF, movie_id=33412, limit=9
+2025-06-25 01:31:07,237 - INFO - Received 10 recommendations from AI service
+2025-06-25 01:31:07,296 - INFO - App started - Page configured
+2025-06-25 01:31:10,324 - INFO - App started - Page configured
+2025-06-25 01:31:10,394 - INFO - User requested recommendations for: Wonderful and Loved by All (ID: 25583)
+2025-06-25 01:31:10,395 - INFO - Calling AI service: algorithm=TF-IDF, movie_id=25583, limit=9
+2025-06-25 01:31:10,784 - INFO - Received 10 recommendations from AI service
+2025-06-25 01:31:10,851 - INFO - App started - Page configured
+2025-06-25 01:31:12,505 - INFO - App started - Page configured
+2025-06-25 01:31:12,638 - INFO - User requested recommendations for: After the Wedding (ID: 3549)
+2025-06-25 01:31:12,638 - INFO - Calling AI service: algorithm=TF-IDF, movie_id=3549, limit=9
+2025-06-25 01:31:12,931 - INFO - Received 10 recommendations from AI service
+2025-06-25 01:31:12,974 - INFO - App started - Page configured
+2025-06-25 01:31:16,147 - INFO - App started - Page configured
+2025-06-25 01:31:16,393 - INFO - User requested recommendations for: Room 205 (ID: 16008)
+2025-06-25 01:31:16,394 - INFO - Calling AI service: algorithm=TF-IDF, movie_id=16008, limit=9
+2025-06-25 01:31:16,973 - INFO - Received 10 recommendations from AI service
+2025-06-25 01:31:17,083 - INFO - App started - Page configured
+2025-06-25 01:31:20,822 - INFO - App started - Page configured
+2025-06-25 01:31:20,880 - INFO - User requested recommendations for: Aching Hearts (ID: 16030)
+2025-06-25 01:31:20,880 - INFO - Calling AI service: algorithm=TF-IDF, movie_id=16030, limit=9
+2025-06-25 01:31:21,368 - INFO - Received 10 recommendations from AI service
+2025-06-25 01:31:21,462 - INFO - App started - Page configured
+2025-06-25 01:31:24,780 - INFO - App started - Page configured
+2025-06-25 01:31:24,859 - INFO - User requested recommendations for: Room 205 (ID: 16008)
+2025-06-25 01:31:24,860 - INFO - Calling AI service: algorithm=TF-IDF, movie_id=16008, limit=9
+2025-06-25 01:31:25,393 - INFO - Received 10 recommendations from AI service
+2025-06-25 01:31:25,481 - INFO - App started - Page configured
+2025-06-25 01:31:27,795 - INFO - App started - Page configured
+2025-06-25 01:31:27,845 - INFO - User requested recommendations for: Aching Hearts (ID: 16030)
+2025-06-25 01:31:27,846 - INFO - Calling AI service: algorithm=TF-IDF, movie_id=16030, limit=9
+2025-06-25 01:31:28,150 - INFO - Received 10 recommendations from AI service
+2025-06-25 01:31:28,218 - INFO - App started - Page configured
+2025-06-25 01:31:30,981 - INFO - App started - Page configured
+2025-06-25 01:31:31,041 - INFO - User requested recommendations for: The Reunion 2: The Funeral (ID: 255746)
+2025-06-25 01:31:31,041 - INFO - Calling AI service: algorithm=TF-IDF, movie_id=255746, limit=9
+2025-06-25 01:31:31,339 - INFO - Received 10 recommendations from AI service
+2025-06-25 01:31:31,385 - INFO - App started - Page configured
+2025-06-25 01:31:34,922 - INFO - App started - Page configured
+2025-06-25 01:31:35,003 - INFO - User requested recommendations for: Lost and Found (ID: 199924)
+2025-06-25 01:31:35,003 - INFO - Calling AI service: algorithm=TF-IDF, movie_id=199924, limit=9
+2025-06-25 01:31:35,331 - INFO - Received 10 recommendations from AI service
+2025-06-25 01:31:35,412 - INFO - App started - Page configured
+2025-06-25 01:31:37,426 - INFO - App started - Page configured
+2025-06-25 01:31:37,486 - INFO - User requested recommendations for: Lost and Found (ID: 199924)
+2025-06-25 01:31:37,487 - INFO - Calling AI service: algorithm=TF-IDF, movie_id=199924, limit=9
+2025-06-25 01:31:37,886 - INFO - Received 10 recommendations from AI service
+2025-06-25 01:31:37,968 - INFO - App started - Page configured
+2025-06-25 01:31:43,699 - INFO - App started - Page configured
+2025-06-25 01:31:43,753 - INFO - User requested recommendations for: Aching Hearts (ID: 16030)
+2025-06-25 01:31:43,753 - INFO - Calling AI service: algorithm=TF-IDF, movie_id=16030, limit=9
+2025-06-25 01:31:44,149 - INFO - Received 10 recommendations from AI service
+2025-06-25 01:31:44,199 - INFO - App started - Page configured
+2025-06-25 01:31:57,004 - INFO - App started - Page configured
+2025-06-25 01:31:57,091 - INFO - User reset session
+2025-06-25 01:31:57,202 - INFO - App started - Page configured
+2025-06-25 01:33:54,418 - INFO - App started - Page configured
+2025-06-25 01:33:57,952 - INFO - App started - Page configured
+2025-06-25 01:33:58,030 - INFO - Session state initialized: current_ids = ['114852', '338846', '1124976', '320588', '51165', '628333', '1016392', '552381', '759633']
+2025-06-25 01:33:58,030 - INFO - Session state initialized: algorithm_used = TF-IDF
+2025-06-25 01:33:58,030 - INFO - Session state initialized: last_recommended = None
+2025-06-25 01:33:58,030 - INFO - Session state initialized: scores = None
+2025-06-25 01:33:58,031 - INFO - Session state initialized: because_you_watched = []
+2025-06-25 01:33:59,610 - INFO - App started - Page configured
+2025-06-25 01:33:59,651 - INFO - User requested recommendations for: Bombay Dreams (ID: 51165)
+2025-06-25 01:33:59,652 - INFO - Calling AI service: algorithm=TF-IDF, movie_id=51165, limit=9
+2025-06-25 01:34:00,646 - INFO - Received 10 recommendations from AI service
+2025-06-25 01:34:00,780 - INFO - App started - Page configured
+2025-06-25 01:34:02,668 - INFO - App started - Page configured
+2025-06-25 01:34:02,723 - INFO - User reset session
+2025-06-25 01:34:02,752 - INFO - App started - Page configured
+2025-06-25 01:34:29,317 - INFO - App started - Page configured
+2025-06-25 01:34:29,696 - INFO - Algorithm changed: TF-IDF -> Sentence Transformers
+2025-06-25 01:34:30,508 - INFO - App started - Page configured
+2025-06-25 01:34:30,551 - INFO - User requested recommendations for: Airport '77 (ID: 7227)
+2025-06-25 01:34:30,552 - INFO - Calling AI service: algorithm=Sentence Transformers, movie_id=7227, limit=9
+2025-06-25 01:34:49,153 - INFO - Received 10 recommendations from AI service
+2025-06-25 01:34:49,308 - INFO - App started - Page configured
+2025-06-25 01:34:56,462 - INFO - App started - Page configured
+2025-06-25 01:35:06,677 - INFO - App started - Page configured
+2025-06-25 01:35:06,738 - INFO - Session state initialized: current_ids = ['528901', '569071', '252483', '404772', '540871', '303904', '498248', '502786', '19576']
+2025-06-25 01:35:06,738 - INFO - Session state initialized: algorithm_used = TF-IDF
+2025-06-25 01:35:06,739 - INFO - Session state initialized: last_recommended = None
+2025-06-25 01:35:06,739 - INFO - Session state initialized: scores = None
+2025-06-25 01:35:06,739 - INFO - Session state initialized: because_you_watched = []
+2025-06-25 01:38:28,422 - INFO - App started - Page configured
+2025-06-25 01:38:28,527 - INFO - Session state initialized: current_ids = ['804725', '92472', '27430', '49026', '218088', '56034', '1230393', '665828', '1165642']
+2025-06-25 01:38:28,527 - INFO - Session state initialized: algorithm_used = TF-IDF
+2025-06-25 01:38:28,527 - INFO - Session state initialized: last_recommended = None
+2025-06-25 01:38:28,528 - INFO - Session state initialized: scores = None
+2025-06-25 01:38:28,528 - INFO - Session state initialized: because_you_watched = []
+2025-06-25 01:38:59,729 - INFO - App started - Page configured
+2025-06-25 01:38:59,792 - INFO - Session state initialized: current_ids = ['591273', '1337309', '895001', '974036', '502122', '16344', '666622', '445203', '101843']
+2025-06-25 01:38:59,792 - INFO - Session state initialized: algorithm_used = TF-IDF
+2025-06-25 01:38:59,792 - INFO - Session state initialized: last_recommended = None
+2025-06-25 01:38:59,792 - INFO - Session state initialized: scores = None
+2025-06-25 01:38:59,792 - INFO - Session state initialized: because_you_watched = []
+2025-06-25 01:39:29,258 - INFO - App started - Page configured
+2025-06-25 01:39:29,330 - INFO - Session state initialized: current_ids = ['792678', '30305', '1100301', '1264429', '611179', '1008005', '686786', '1157577', '140713']
+2025-06-25 01:39:29,331 - INFO - Session state initialized: algorithm_used = TF-IDF
+2025-06-25 01:39:29,332 - INFO - Session state initialized: last_recommended = None
+2025-06-25 01:39:29,332 - INFO - Session state initialized: scores = None
+2025-06-25 01:39:29,333 - INFO - Session state initialized: because_you_watched = []
+2025-06-25 01:41:54,866 - INFO - App started - Page configured
+2025-06-25 01:41:55,010 - INFO - Session state initialized: current_ids = ['549432', '295151', '974950', '308027', '503', '616255', '811711', '1058667', '566097']
+2025-06-25 01:41:55,011 - INFO - Session state initialized: algorithm_used = TF-IDF
+2025-06-25 01:41:55,011 - INFO - Session state initialized: last_recommended = None
+2025-06-25 01:41:55,011 - INFO - Session state initialized: scores = None
+2025-06-25 01:41:55,011 - INFO - Session state initialized: because_you_watched = []
+2025-06-25 01:42:18,409 - INFO - App started - Page configured
+2025-06-25 01:42:18,504 - INFO - User requested recommendations for: Fireball (ID: 30305)
+2025-06-25 01:42:18,504 - INFO - Calling AI service: algorithm=TF-IDF, movie_id=30305, limit=9
+2025-06-25 01:42:20,977 - INFO - Received 10 recommendations from AI service
+2025-06-25 01:42:21,058 - INFO - App started - Page configured
+2025-06-25 01:42:49,591 - INFO - App started - Page configured
+2025-06-25 01:42:49,790 - INFO - User requested recommendations for: Zoom (ID: 14113)
+2025-06-25 01:42:49,790 - INFO - Calling AI service: algorithm=TF-IDF, movie_id=14113, limit=9
+2025-06-25 01:42:50,502 - INFO - Received 10 recommendations from AI service
+2025-06-25 01:42:50,562 - INFO - App started - Page configured
+2025-06-25 01:43:16,370 - INFO - App started - Page configured
+2025-06-25 01:43:16,486 - INFO - Algorithm changed: TF-IDF -> Sentence Transformers
+2025-06-25 01:43:19,484 - INFO - App started - Page configured
+2025-06-25 01:43:19,583 - INFO - User requested recommendations for: Gandu (ID: 92472)
+2025-06-25 01:43:19,584 - INFO - Calling AI service: algorithm=Sentence Transformers, movie_id=92472, limit=9
+2025-06-25 01:43:35,503 - INFO - Received 10 recommendations from AI service
+2025-06-25 01:43:35,611 - INFO - App started - Page configured
+2025-06-25 01:44:25,051 - INFO - App started - Page configured
+2025-06-25 01:44:25,162 - INFO - Algorithm changed: Sentence Transformers -> OpenAI GPT
+2025-06-25 01:44:27,952 - INFO - App started - Page configured
+2025-06-25 01:44:28,011 - INFO - User requested recommendations for: Delhi Belly (ID: 67109)
+2025-06-25 01:44:28,012 - INFO - Calling AI service: algorithm=OpenAI GPT, movie_id=67109, limit=9
+2025-06-25 01:44:29,061 - ERROR - AI service request failed: 500 Server Error: Internal Server Error for url: http://localhost:8080/recommendations
+2025-06-25 01:50:07,225 - INFO - App started - Page configured
+2025-06-25 01:50:07,440 - INFO - Session state initialized: current_ids = ['943919', '22503', '1635', '511880', '90147', '19672', '623195', '432883', '238615']
+2025-06-25 01:50:07,440 - INFO - Session state initialized: algorithm_used = TF-IDF
+2025-06-25 01:50:07,441 - INFO - Session state initialized: last_recommended = None
+2025-06-25 01:50:07,441 - INFO - Session state initialized: scores = None
+2025-06-25 01:50:07,441 - INFO - Session state initialized: because_you_watched = []
+2025-06-25 01:50:12,117 - INFO - App started - Page configured
+2025-06-25 01:50:12,209 - INFO - Algorithm changed: TF-IDF -> OpenAI GPT
+2025-06-25 01:50:13,346 - INFO - App started - Page configured
+2025-06-25 01:50:13,380 - INFO - User requested recommendations for: The Island (ID: 1635)
+2025-06-25 01:50:13,380 - INFO - Calling AI service: algorithm=OpenAI GPT, movie_id=1635, limit=9
+2025-06-25 01:50:20,959 - INFO - Received 10 recommendations from AI service
+2025-06-25 01:50:21,091 - INFO - App started - Page configured
+2025-06-25 01:50:29,491 - INFO - App started - Page configured
+2025-06-25 01:50:29,584 - INFO - User requested recommendations for: The 6th Day (ID: 8452)
+2025-06-25 01:50:29,584 - INFO - Calling AI service: algorithm=OpenAI GPT, movie_id=8452, limit=9
+2025-06-25 01:50:30,301 - INFO - Received 10 recommendations from AI service
+2025-06-25 01:50:30,355 - INFO - App started - Page configured
+2025-06-25 01:50:35,486 - INFO - App started - Page configured
+2025-06-25 01:50:35,568 - INFO - User requested recommendations for: The Next Three Days (ID: 43539)
+2025-06-25 01:50:35,568 - INFO - Calling AI service: algorithm=OpenAI GPT, movie_id=43539, limit=9
+2025-06-25 01:50:36,638 - INFO - Received 10 recommendations from AI service
+2025-06-25 01:50:36,711 - INFO - App started - Page configured
+2025-06-25 01:54:10,117 - INFO - App started - Page configured
+2025-06-25 01:54:10,220 - INFO - User requested recommendations for: The Third Wave (ID: 21041)
+2025-06-25 01:54:10,220 - INFO - Calling AI service: algorithm=OpenAI GPT, movie_id=21041, limit=9
+2025-06-25 01:54:11,742 - INFO - Received 10 recommendations from AI service
+2025-06-25 01:54:11,813 - INFO - App started - Page configured
+2025-06-25 01:55:06,455 - INFO - App started - Page configured
+2025-06-25 01:55:06,530 - INFO - Session state initialized: current_ids = ['440708', '74881', '437018', '32812', '752973', '263910', '894155', '961761', '9417']
+2025-06-25 01:55:06,530 - INFO - Session state initialized: algorithm_used = TF-IDF
+2025-06-25 01:55:06,530 - INFO - Session state initialized: last_recommended = None
+2025-06-25 01:55:06,530 - INFO - Session state initialized: scores = None
+2025-06-25 01:55:06,530 - INFO - Session state initialized: because_you_watched = []
+2025-06-25 01:55:29,439 - INFO - App started - Page configured
+2025-06-25 01:55:29,617 - INFO - User requested recommendations for: Wrongfully Accused (ID: 9417)
+2025-06-25 01:55:29,617 - INFO - Calling AI service: algorithm=TF-IDF, movie_id=9417, limit=9
+2025-06-25 01:55:31,331 - INFO - Received 10 recommendations from AI service
+2025-06-25 01:55:31,483 - INFO - App started - Page configured
+2025-06-25 01:55:48,530 - INFO - App started - Page configured
+2025-06-25 01:55:48,598 - INFO - User requested recommendations for: Dogtooth (ID: 38810)
+2025-06-25 01:55:48,599 - INFO - Calling AI service: algorithm=TF-IDF, movie_id=38810, limit=9
+2025-06-25 01:55:49,077 - INFO - Received 10 recommendations from AI service
+2025-06-25 01:55:49,148 - INFO - App started - Page configured
+2025-06-25 01:56:30,180 - INFO - App started - Page configured
+2025-06-25 01:56:30,368 - INFO - Algorithm changed: TF-IDF -> Sentence Transformers
+2025-06-25 01:56:32,231 - INFO - App started - Page configured
+2025-06-25 01:56:32,302 - INFO - User requested recommendations for: Frozen Land (ID: 18279)
+2025-06-25 01:56:32,302 - INFO - Calling AI service: algorithm=Sentence Transformers, movie_id=18279, limit=9
+2025-06-25 01:56:50,589 - INFO - Received 10 recommendations from AI service
+2025-06-25 01:56:50,707 - INFO - App started - Page configured
+2025-06-25 01:58:07,448 - INFO - App started - Page configured
+2025-06-25 01:58:07,706 - INFO - Algorithm changed: Sentence Transformers -> OpenAI GPT
+2025-06-25 01:58:08,862 - INFO - App started - Page configured
+2025-06-25 01:58:08,904 - INFO - User requested recommendations for: Ariel (ID: 2)
+2025-06-25 01:58:08,904 - INFO - Calling AI service: algorithm=OpenAI GPT, movie_id=2, limit=9
+2025-06-25 01:58:11,016 - INFO - Received 10 recommendations from AI service
+2025-06-25 01:58:11,067 - INFO - App started - Page configured

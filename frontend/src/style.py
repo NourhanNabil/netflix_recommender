@@ -9,9 +9,9 @@ NETFLIX_CSS = """
     /* Header styling */
     .main-header {
         background: linear-gradient(135deg, #e50914 0%, #221f1f 100%);
-        padding: 30px;
-        border-radius: 10px;
-        margin-bottom: 30px;
+        padding: 15px;
+        border-radius: 5px;
+        margin-bottom: 15px;
         text-align: center;
     }
 
